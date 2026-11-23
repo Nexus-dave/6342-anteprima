@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en" data-base="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pizza-Man · Spaghetteria 6342 a le Tole, Venice</title>
+<meta name="description" content="A little 6342 game: you are a pizza, you flee the chefs and eat the wheat grains.">
+<!-- BOZZA: togliere noindex alla pubblicazione -->
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://www.6342aletole.it/en/gioco.html">
+<link rel="alternate" hreflang="it" href="https://www.6342aletole.it/gioco.html">
+<link rel="alternate" hreflang="en" href="https://www.6342aletole.it/en/gioco.html">
+<link rel="alternate" hreflang="de" href="https://www.6342aletole.it/de/gioco.html">
+<link rel="alternate" hreflang="fr" href="https://www.6342aletole.it/fr/gioco.html">
+<link rel="alternate" hreflang="x-default" href="https://www.6342aletole.it/gioco.html">
+<meta name="theme-color" content="#161310">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Spaghetteria 6342 a le Tole">
+<meta property="og:title" content="Pizza-Man · 6342 a le Tole, Venice">
+<meta property="og:description" content="You are a pizza: eat the wheat grains and flee the angry chefs.">
+<meta property="og:url" content="https://www.6342aletole.it/en/gioco.html">
+<meta property="og:image" content="https://www.6342aletole.it/assets/img/brand/og-6342.jpg">
+<meta property="og:locale" content="en_GB"><meta property="og:locale:alternate" content="it_IT"><meta property="og:locale:alternate" content="de_DE"><meta property="og:locale:alternate" content="fr_FR">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="../icon-192.png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="stylesheet" href="../assets/css/base.css">
+<link rel="stylesheet" href="../assets/css/gioco.css">
+<script defer src="../assets/js/gioco.js"></script>
+</head>
+<body class="gioco-page">
+<a class="skip-link" href="#gioco">Skip to the game</a>
+<header class="g-top">
+ <a class="back" href="index.html"><span aria-hidden="true">←</span> 6342</a>
+ <p class="g-brand">6342</p>
+ <nav class="lang" aria-label="Language"><a href="../gioco.html" hreflang="it" lang="it" title="Italiano">IT</a><a href="../en/gioco.html" hreflang="en" lang="en" title="English" aria-current="page">EN</a><a href="../de/gioco.html" hreflang="de" lang="de" title="Deutsch">DE</a><a href="../fr/gioco.html" hreflang="fr" lang="fr" title="Français">FR</a></nav>
+</header>
+<main id="gioco" class="g-main">
+ <div class="g-hud">
+  <div><span>Score</span><strong id="sc-score">0</strong></div>
+  <div><span>Best</span><strong id="sc-hi">0</strong></div>
+  <div><span>Level</span><strong id="sc-lv">1</strong></div>
+  <div><span>Lives</span><div class="g-lives" id="sc-lives" aria-label="Lives"></div></div>
+ </div>
+ <div class="g-stage">
+  <canvas id="g-canvas" width="608" height="672" aria-label="Pizza-Man game board">Pizza-Man</canvas>
+  <div class="g-overlay" id="g-overlay">
+   <div class="g-card" id="g-title-card">
+    <p class="g-kicker">6342 a le Tole</p>
+    <h1>Pizza-Man</h1>
+    <p class="g-sub">You are a pizza: eat the wheat grains and flee the angry chefs.</p>
+    <p class="g-help">Arrow keys or WASD. On a phone, swipe or use the buttons. Golden grains stun the chefs.</p>
+    <button type="button" class="btn btn-oro" id="btn-play">Play</button>
+   </div>
+   <div class="g-card" id="g-msg-card" hidden>
+    <p class="g-msg" id="g-msg"></p>
+    <button type="button" class="btn btn-oro" id="btn-msg">Resume</button>
+   </div>
+  </div>
+ </div>
+ <div class="g-pad" id="g-pad" aria-label="Controls">
+  <button type="button" data-dir="up" aria-label="Up">▲</button>
+  <button type="button" data-dir="left" aria-label="Left">◀</button>
+  <button type="button" data-dir="right" aria-label="Right">▶</button>
+  <button type="button" data-dir="down" aria-label="Down">▼</button>
+ </div>
+ <div class="g-tools">
+  <button type="button" id="btn-pause">Pause</button>
+  <button type="button" id="btn-mute" aria-label="Sound" aria-pressed="false">♪</button>
+ </div>
+</main>
+<footer class="g-foot">
+ <p>6342</p>
+ <p><a class="ig-handle" href="https://www.instagram.com/spaghetteria6342aletole/" target="_blank" rel="noopener" aria-label="Instagram spaghetteria6342aletole"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor"/></svg>spaghetteria6342aletole</a></p>
+ <p class="legal">HR SRL • VAT IT04380810277</p>
+</footer>
+</body>
+</html>
