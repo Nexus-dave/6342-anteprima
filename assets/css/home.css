@@ -183,7 +183,7 @@ dialog#lightbox figure{margin:0;text-align:center}
 @media (max-width:820px){.tb-right{gap:8px}.topbar .lang-sel{font-size:.66rem}.topbar .lang-sel a{padding:.4em .4em}.tb-menu{padding:.5em .9em}}
 .footer .lang-sel{justify-content:center;margin-top:14px}.footer .lang-sel a{color:var(--avorio-2)}.footer .lang-sel a[aria-current=page]{color:var(--oro-chiaro)}
 .footer p{margin:.3em 0}
-.info-grid .ig-handle svg{color:var(--oro)}
+.info-grid .ig-handle svg,.info-grid .fb-handle svg,.info-grid .fork-handle svg{color:var(--oro)}
 
 /* v6d: link al giochino */
 .tb-gioco{font-family:var(--sans);font-size:.74rem;letter-spacing:.24em;text-transform:uppercase;text-decoration:none;color:var(--oro-chiaro);transition:color .3s}

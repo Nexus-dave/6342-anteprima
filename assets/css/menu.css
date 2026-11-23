@@ -106,7 +106,7 @@ html.no-anim .wash,html.no-anim .piatto{transition:none}
 
 /* v5 */
 .mfooter p{margin:.25em 0}
-.mfooter .ig-handle{color:var(--laguna-scura)}
+.mfooter .ig-handle,.mfooter .fb-handle,.mfooter .fork-handle{color:var(--laguna-scura)}
 @media (max-width:600px){.lang a{min-width:36px;padding:.4em .55em}.pdf{padding:.55em .8em}}
 /* v6c: menù pasta / pizza, pagine a tutta larghezza (leggibili al telefono), schede, PDF */
 .menu-viewer{padding-bottom:calc(48px + env(safe-area-inset-bottom))}

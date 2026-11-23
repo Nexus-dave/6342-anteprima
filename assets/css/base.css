@@ -50,8 +50,9 @@ button{font:inherit;color:inherit}
 }
 
 /* v5: account Instagram senza @ con il logo della stessa altezza del testo */
-.ig-handle{display:inline-flex;align-items:center;gap:.35em;white-space:nowrap;vertical-align:baseline}
-.ig-handle svg{width:1.1em;height:1.1em;flex:none;display:inline-block}
+.ig-handle,.fb-handle,.fork-handle{display:inline-flex;align-items:center;gap:.35em;white-space:nowrap;vertical-align:baseline}
+.ig-handle svg,.fb-handle svg,.fork-handle svg{width:1.1em;height:1.1em;flex:none;display:inline-block}
+.pb-prenota>svg{width:1.1em;height:1.1em;flex:none}
 /* v5: selettore lingua */
 .lang-sel{display:flex;gap:2px;font-family:var(--sans);font-size:.7rem;letter-spacing:.14em}
 .lang-sel a{text-decoration:none;padding:.45em .55em;border-radius:999px;opacity:.85}
