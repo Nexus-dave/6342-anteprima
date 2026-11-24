@@ -19,7 +19,7 @@ body.menu-page{background:var(--carta) url(../img/acquerello/carta-400.webp);col
   @keyframes parallax{to{transform:translateY(90px) scale(1.06);opacity:.6}}
  }
 }
-.mhero-logo{width:220px;margin:-30px auto 10px;position:relative}
+.mhero-logo{display:block;width:220px;max-width:min(220px,70vw);height:auto;aspect-ratio:480/308;object-fit:contain;background:transparent;margin:-30px auto 10px;position:relative;z-index:1}
 .mhero h1{font-size:clamp(3.6rem,10vw,6.5rem);font-style:italic;line-height:1;color:var(--inchiostro)}
 .mhero-sub{margin:.6em 0 0;color:#4a453e;font-size:1.05rem}
 .mhero-sub span{font-size:.85em;color:#4a453e;font-style:italic}
@@ -132,9 +132,9 @@ html[data-menu="pasta"] #pasta,
 html:has(#pizza:target) #pizza,
 html[data-menu="pizza"] #pizza{display:block}
 .menu-pages{display:flex;flex-direction:column;gap:22px;padding-bottom:24px}
-.menu-page{margin:0;background:#fff;border:1px solid rgba(42,39,34,.1);border-radius:8px;box-shadow:0 8px 28px rgba(22,19,16,.12);overflow:hidden}
-.menu-page img{display:block;width:100%;height:auto;aspect-ratio:1323/1871;background:#f5f0e6}
-.menu-page figcaption{margin:0;padding:8px 12px 10px;text-align:center;font-family:var(--sans);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#3f3b35;background:rgba(255,255,255,.7)}
+figure.menu-page{margin:0;background:#fff;border:1px solid rgba(42,39,34,.1);border-radius:8px;box-shadow:0 8px 28px rgba(22,19,16,.12);overflow:hidden}
+figure.menu-page img{display:block;width:100%;height:auto;aspect-ratio:1323/1871;background:#f5f0e6}
+figure.menu-page figcaption{margin:0;padding:8px 12px 10px;text-align:center;font-family:var(--sans);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#3f3b35;background:rgba(255,255,255,.7)}
 @media (max-width:600px){
   .menu-toolbar{top:60px;padding:8px 0 10px;gap:6px;scroll-margin-top:60px}
   .menu-tab{font-size:.72rem;letter-spacing:.1em;padding:.65em .7em;max-width:none}
