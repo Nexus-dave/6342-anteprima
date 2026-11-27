@@ -41,10 +41,12 @@ d.setAttribute('data-intro',(q.get('intro')==='0'||q.get('statico')==='1')?'stat
 </style>
 <link rel="stylesheet" href="assets/css/base.css">
 <link rel="stylesheet" href="assets/css/home.css">
+<link rel="stylesheet" href="assets/css/carosello.css">
 <link rel="stylesheet" href="assets/css/apertura.css">
 <script defer src="assets/js/spiga-anim.js"></script>
 <script defer src="assets/js/apertura.js"></script>
 <script defer src="assets/js/home.classic.js"></script>
+<script defer src="assets/js/carosello.js"></script>
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -204,8 +206,8 @@ d.setAttribute('data-intro',(q.get('intro')==='0'||q.get('statico')==='1')?'stat
     </div>
     <div class="cap-text">
      <p class="kicker"><span class="num">I</span>L’anima</p>
-     <h2 class="cap-title" id="t-storia">Dal 2012, <em>a casa di Elena.</em></h2>
-     <div class="cap-body"><p>Dal 2012 Elena accoglie clienti da tutto il mondo, molti dei quali tornano al 6342 A Le Tole nei loro successivi viaggi a Venezia.</p><p>Il cibo squisito a un prezzo ragionevole, l’atmosfera accogliente e la cordialità del personale fanno del 6342 A Le Tole un locale molto amato sia dai veneziani che dai visitatori.</p></div>
+     <h2 class="cap-title" id="t-storia">Dal 2012, <em>il piacere di accogliervi.</em></h2>
+     <div class="cap-body"><p>In Barbaria de le Tole, a pochi passi da San Marco e Rialto ma lontano dalla folla, dal 2012 c'è un angolo di Venezia dove sentirsi a casa. Chi entra trova una famiglia e una squadra che accolgono ogni ospite con un sorriso, in sala come in cucina.</p><p>La nostra è una cucina onesta. La pasta fresca nasce ogni giorno, con una ricetta di famiglia, e vi aspetta in vetrina. I sughi di carne si preparano ogni giorno, il ragù cuoce sei ore e quelli di pesce si fanno al momento, come gli spaghetti vongole e bottarga. E per finire, i dolci fatti in casa, a cominciare dal tiramisù.</p><p>Alle pareti i nizioleti veneziani e il vetro di Murano, e ogni sera musica dal vivo. Turisti e veneziani si siedono alla stessa tavola, e molti tornano.</p></div>
     </div>
    </div>
   </section>
@@ -287,6 +289,17 @@ d.setAttribute('data-intro',(q.get('intro')==='0'||q.get('statico')==='1')?'stat
   </section>
   <section class="galleria-wrap" aria-labelledby="t-galleria">
    <h2 class="visually-hidden" id="t-galleria">Galleria</h2>
+   <div class="carosello" data-carosello>
+    <div class="carosello-frame">
+     <div class="carosello-stage" aria-live="polite"></div>
+     <div class="carosello-ui">
+      <button type="button" class="carosello-btn carosello-prev" aria-label="Foto precedente"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M15 5 8 12l7 7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+      <button type="button" class="carosello-btn carosello-next" aria-label="Foto successiva"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="m9 5 7 7-7 7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+     </div>
+     <span class="carosello-count" aria-hidden="true"></span>
+    </div>
+    <div class="carosello-dots" role="tablist" aria-label="Foto della galleria"></div>
+   </div>
    <div class="galleria">
      <figure class="w2" data-reveal><a href="assets/img/galleria/g12-spaghetti-pomodoro-960.webp" data-full="assets/img/galleria/g12-spaghetti-pomodoro-960.webp"><img src="assets/img/galleria/g12-spaghetti-pomodoro-960.webp" srcset="assets/img/galleria/g12-spaghetti-pomodoro-480.webp 480w, assets/img/galleria/g12-spaghetti-pomodoro-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Spaghetti al pomodoro con basilico nel piatto 6342 A Le Tole" loading="lazy" decoding="async"></a></figure>
      <figure class="" data-reveal><a href="assets/img/galleria/g02-scampi-960.webp" data-full="assets/img/galleria/g02-scampi-960.webp"><img src="assets/img/galleria/g02-scampi-960.webp" srcset="assets/img/galleria/g02-scampi-480.webp 480w, assets/img/galleria/g02-scampi-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Spaghetti agli scampi" loading="lazy" decoding="async"></a></figure>
@@ -294,6 +307,7 @@ d.setAttribute('data-intro',(q.get('intro')==='0'||q.get('statico')==='1')?'stat
      <figure class="h2" data-reveal><a href="assets/img/galleria/g14-spaghetti-astice-960.webp" data-full="assets/img/galleria/g14-spaghetti-astice-960.webp"><img src="assets/img/galleria/g14-spaghetti-astice-960.webp" srcset="assets/img/galleria/g14-spaghetti-astice-480.webp 480w, assets/img/galleria/g14-spaghetti-astice-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Spaghetti all’astice con pomodorini su piatto in ceramica verde" loading="lazy" decoding="async"></a></figure>
      <figure class="" data-reveal><a href="assets/img/galleria/g04-pasta-fresca-960.webp" data-full="assets/img/galleria/g04-pasta-fresca-960.webp"><img src="assets/img/galleria/g04-pasta-fresca-960.webp" srcset="assets/img/galleria/g04-pasta-fresca-480.webp 480w, assets/img/galleria/g04-pasta-fresca-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Pasta fresca appena scolata" loading="lazy" decoding="async"></a></figure>
      <figure class="" data-reveal><a href="assets/img/galleria/g13-spaghetti-gamberi-960.webp" data-full="assets/img/galleria/g13-spaghetti-gamberi-960.webp"><img src="assets/img/galleria/g13-spaghetti-gamberi-960.webp" srcset="assets/img/galleria/g13-spaghetti-gamberi-480.webp 480w, assets/img/galleria/g13-spaghetti-gamberi-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Spaghetti ai gamberi e rucola nel piatto 6342 A Le Tole" loading="lazy" decoding="async"></a></figure>
+     <figure class="" data-reveal><a href="assets/img/galleria/g17-spaghetti-gamberi-sugo-960.webp" data-full="assets/img/galleria/g17-spaghetti-gamberi-sugo-960.webp"><img src="assets/img/galleria/g17-spaghetti-gamberi-sugo-960.webp" srcset="assets/img/galleria/g17-spaghetti-gamberi-sugo-480.webp 480w, assets/img/galleria/g17-spaghetti-gamberi-sugo-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Spaghetti con gamberi e scampi al sugo nel piatto 6342" loading="lazy" decoding="async"></a></figure>
      <figure class="" data-reveal><a href="assets/img/galleria/g07-woks-960.webp" data-full="assets/img/galleria/g07-woks-960.webp"><img src="assets/img/galleria/g07-woks-960.webp" srcset="assets/img/galleria/g07-woks-480.webp 480w, assets/img/galleria/g07-woks-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Cottura in padella" loading="lazy" decoding="async"></a></figure>
      <figure class="w2" data-reveal><a href="assets/img/galleria/g01-pizza-960.webp" data-full="assets/img/galleria/g01-pizza-960.webp"><img src="assets/img/galleria/g01-pizza-960.webp" srcset="assets/img/galleria/g01-pizza-480.webp 480w, assets/img/galleria/g01-pizza-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Pizza con rucola e burrata" loading="lazy" decoding="async"></a></figure>
      <figure class="" data-reveal><a href="assets/img/galleria/g06-astice-960.webp" data-full="assets/img/galleria/g06-astice-960.webp"><img src="assets/img/galleria/g06-astice-960.webp" srcset="assets/img/galleria/g06-astice-480.webp 480w, assets/img/galleria/g06-astice-960.webp 960w" sizes="(max-width: 820px) 50vw, 25vw" width="960" height="960" alt="Spaghetti all’astice" loading="lazy" decoding="async"></a></figure>
