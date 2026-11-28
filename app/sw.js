@@ -1,5 +1,5 @@
 /* 6342 Venezia in tasca — service worker (scope: /6342-anteprima/app/) */
-const V = 'v6342-pages-app-2026-11-28';
+const V = 'v6342-pages-app-2026-11-28b';
 const SHELL = [
  "./",
  "index.html",

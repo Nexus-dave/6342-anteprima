@@ -8,7 +8,7 @@ var REST = { ll: [45.43875, 12.34244], tel: '+390414768410', name: 'Spaghetteria
 
 /* ---------- testi interfaccia ---------- */
 var T = {
- it: { heroKicker:'Venezia in tasca', heroTitle1:'La Venezia', heroTitle2:'che vive oggi', heroSub:'Mostre, concerti e feste aggiornati, la mappa dei servizi e i numeri utili. Offerti da noi, dalla Barbaria de le Tole.',
+ it: { heroKicker:'Venezia in tasca', heroTitle1:'La Venezia', heroTitle2:'che vive oggi', heroSub:'Mostre, concerti e feste aggiornati, la mappa dei servizi e i numeri utili. Offerti da noi, la Spaghetteria 6342 a le Tole.',
   ctaEvents:'Cosa fare oggi', ctaMap:'Mappa', todayTitle:'Oggi a Venezia', seeAll:'Tutti', ourHouse:'La nostra casa', book:'Prenota', call:'Chiama', directions:'Portami lì', menu:'Menù',
   weekTitle:'In evidenza', storiesKicker:'Storie della Barbaria', storiesTitle:'Perché la nostra calle si chiama «de le Tole»?', read:'Leggi', numbers:'Numeri utili', numbersSub:'Emergenze, gondole, taxi acqueo',
   gameSub:'Il nostro giochino', prototype:'Prototipo · non pubblicato', eventsKicker:'Agenda culturale', eventsTitle:'Eventi a Venezia', fToday:'Oggi', fWeek:'Questa settimana', fMonth:'Prossimi 30 giorni', fAll:'Tutti',
@@ -22,7 +22,7 @@ var T = {
   near:'a {m} m in linea d\'aria', go:'Portami lì', callShort:'Chiama', list:'Lista', map:'Mappa', locating:'Cerco la tua posizione…', noGeo:'Posizione non disponibile', copied:'Link copiato',
   cover:'Coperto', extras:'Aggiunte sulla pizza', allergensT:'Allergeni', draftTr:'traduzione in revisione', installed:'Aggiungi alla schermata Home', install:'Installa l\'app', thisWeek:'Questa settimana', later:'Più avanti', sold:'',
   cat:{ristorante:'Il 6342', vaporetto:'Vaporetto', gondola:'Gondole', taxi:'Taxi acqueo', farmacia:'Farmacie', ospedale:'Ospedale', atm:'Bancomat', wc:'WC pubblici', info:'Info turistiche', arte:'Arte vicina', eventi:'Eventi'} },
- en: { heroKicker:'Venice in your pocket', heroTitle1:'The Venice', heroTitle2:'alive today', heroSub:'Up-to-date exhibitions, concerts and festivals, a map of services and useful numbers. Brought to you by us, from Barbaria de le Tole.',
+ en: { heroKicker:'Venice in your pocket', heroTitle1:'The Venice', heroTitle2:'alive today', heroSub:'Up-to-date exhibitions, concerts and festivals, a map of services and useful numbers. Brought to you by us, Spaghetteria 6342 a le Tole.',
   ctaEvents:'What\'s on today', ctaMap:'Map', todayTitle:'Today in Venice', seeAll:'All', ourHouse:'Our home', book:'Book', call:'Call', directions:'Take me', menu:'Menu',
   weekTitle:'Highlights', storiesKicker:'Tales of the Barbaria', storiesTitle:'Why is our street called “de le Tole”?', read:'Read', numbers:'Useful numbers', numbersSub:'Emergencies, gondolas, water taxi',
   gameSub:'Our little game', prototype:'Prototype · not published', eventsKicker:'Cultural agenda', eventsTitle:'Events in Venice', fToday:'Today', fWeek:'This week', fMonth:'Next 30 days', fAll:'All',
@@ -36,7 +36,7 @@ var T = {
   near:'{m} m as the crow flies', go:'Take me', callShort:'Call', list:'List', map:'Map', locating:'Finding your position…', noGeo:'Location unavailable', copied:'Link copied',
   cover:'Cover charge', extras:'Extra toppings', allergensT:'Allergens', draftTr:'translation under review', install:'Install the app', thisWeek:'This week', later:'Later on',
   cat:{ristorante:'6342', vaporetto:'Waterbus', gondola:'Gondolas', taxi:'Water taxi', farmacia:'Pharmacies', ospedale:'Hospital', atm:'ATMs', wc:'Public toilets', info:'Tourist info', arte:'Art nearby', eventi:'Events'} },
- de: { heroKicker:'Venedig in der Tasche', heroTitle1:'Das Venedig', heroTitle2:'von heute', heroSub:'Aktuelle Ausstellungen, Konzerte und Feste, eine Karte mit Services und nützliche Nummern. Von uns, aus der Barbaria de le Tole.',
+ de: { heroKicker:'Venedig in der Tasche', heroTitle1:'Das Venedig', heroTitle2:'von heute', heroSub:'Aktuelle Ausstellungen, Konzerte und Feste, eine Karte mit Services und nützliche Nummern. Von uns, der Spaghetteria 6342 a le Tole.',
   ctaEvents:'Was ist heute los', ctaMap:'Karte', todayTitle:'Heute in Venedig', seeAll:'Alle', ourHouse:'Unser Haus', book:'Reservieren', call:'Anrufen', directions:'Hinführen', menu:'Speisekarte',
   weekTitle:'Highlights', storiesKicker:'Geschichten der Barbaria', storiesTitle:'Warum heißt unsere Gasse „de le Tole“?', read:'Lesen', numbers:'Nützliche Nummern', numbersSub:'Notfälle, Gondeln, Wassertaxi',
   gameSub:'Unser kleines Spiel', prototype:'Prototyp · nicht veröffentlicht', eventsKicker:'Kulturkalender', eventsTitle:'Veranstaltungen', fToday:'Heute', fWeek:'Diese Woche', fMonth:'Nächste 30 Tage', fAll:'Alle',
@@ -50,7 +50,7 @@ var T = {
   near:'{m} m Luftlinie', go:'Hinführen', callShort:'Anrufen', list:'Liste', map:'Karte', locating:'Standort wird gesucht…', noGeo:'Standort nicht verfügbar', copied:'Link kopiert',
   cover:'Gedeck', extras:'Extra-Beläge', allergensT:'Allergene', draftTr:'Übersetzung in Prüfung', install:'App installieren', thisWeek:'Diese Woche', later:'Später',
   cat:{ristorante:'6342', vaporetto:'Vaporetto', gondola:'Gondeln', taxi:'Wassertaxi', farmacia:'Apotheken', ospedale:'Krankenhaus', atm:'Geldautomaten', wc:'Toiletten', info:'Touristinfo', arte:'Kunst', eventi:'Events'} },
- fr: { heroKicker:'Venise dans la poche', heroTitle1:'La Venise', heroTitle2:'qui vit aujourd\'hui', heroSub:'Expositions, concerts et fêtes à jour, la carte des services et les numéros utiles. Offerts par nous, depuis la Barbaria de le Tole.',
+ fr: { heroKicker:'Venise dans la poche', heroTitle1:'La Venise', heroTitle2:'qui vit aujourd\'hui', heroSub:'Expositions, concerts et fêtes à jour, la carte des services et les numéros utiles. Offerts par nous, la Spaghetteria 6342 a le Tole.',
   ctaEvents:'À faire aujourd\'hui', ctaMap:'Carte', todayTitle:'Aujourd\'hui à Venise', seeAll:'Tout', ourHouse:'Notre maison', book:'Réserver', call:'Appeler', directions:'M\'y emmener', menu:'Menu',
   weekTitle:'À la une', storiesKicker:'Histoires de la Barbaria', storiesTitle:'Pourquoi notre rue s\'appelle-t-elle « de le Tole » ?', read:'Lire', numbers:'Numéros utiles', numbersSub:'Urgences, gondoles, bateau-taxi',
   gameSub:'Notre petit jeu', prototype:'Prototype · non publié', eventsKicker:'Agenda culturel', eventsTitle:'Événements à Venise', fToday:'Aujourd\'hui', fWeek:'Cette semaine', fMonth:'30 prochains jours', fAll:'Tout',
