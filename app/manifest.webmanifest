@@ -1,0 +1,73 @@
+{
+ "id": "/6342-anteprima/app/",
+ "name": "6342 a le Tole · Venezia in tasca",
+ "short_name": "6342 Venezia",
+ "description": "La Venezia culturale in tasca, offerta da Spaghetteria 6342 a le Tole: eventi, mostre, mappa dei servizi, numeri utili, menù e Pizza-Man.",
+ "lang": "it",
+ "start_url": "/6342-anteprima/app/index.html?source=pwa",
+ "scope": "/6342-anteprima/app/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#100d0b",
+ "theme_color": "#100d0b",
+ "categories": [
+  "travel",
+  "food",
+  "lifestyle"
+ ],
+ "icons": [
+  {
+   "src": "assets/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Eventi di oggi",
+   "short_name": "Eventi",
+   "url": "/6342-anteprima/app/index.html#eventi",
+   "icons": [
+    {
+     "src": "assets/icons/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Mappa servizi",
+   "short_name": "Mappa",
+   "url": "/6342-anteprima/app/index.html#mappa",
+   "icons": [
+    {
+     "src": "assets/icons/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Menù",
+   "short_name": "Menù",
+   "url": "/6342-anteprima/app/index.html#menu",
+   "icons": [
+    {
+     "src": "assets/icons/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  }
+ ]
+}

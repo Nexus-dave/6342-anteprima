@@ -1,0 +1,780 @@
+{
+ "aggiornato": "2026-11-24",
+ "fuso": "Europe/Rome",
+ "nota": "Dati verificati sulle pagine ufficiali indicate in 'source'. Aggiornare con tools/aggiorna_eventi.md.",
+ "eventi": [
+  {
+   "id": "armitage",
+   "cat": "mostra",
+   "title": "Michael Armitage. The Promise of Change",
+   "venue": "Palazzo Grassi",
+   "area": "San Marco · Campo San Samuele",
+   "start": "2026-03-29",
+   "end": "2027-01-10",
+   "note": {
+    "it": "45 dipinti su corteccia e oltre cento studi del pittore keniota-britannico.",
+    "en": "45 paintings on bark cloth and over a hundred studies by the Kenyan-British painter."
+   },
+   "url": "https://www.pinaultcollection.com/palazzograssi/it",
+   "source": "https://www.pinaultcollection.com/palazzograssi/it",
+   "free": false,
+   "highlight": true,
+   "ll": [
+    45.43378,
+    12.32795
+   ]
+  },
+  {
+   "id": "kanwar",
+   "cat": "mostra",
+   "title": "Amar Kanwar. Co-travellers",
+   "venue": "Palazzo Grassi",
+   "area": "San Marco · Campo San Samuele",
+   "start": "2026-03-29",
+   "end": "2027-01-10",
+   "note": {
+    "it": "Due grandi installazioni multimediali, tra cui The Peacock's Graveyard.",
+    "en": "Two major multimedia installations, including The Peacock's Graveyard."
+   },
+   "url": "https://www.pinaultcollection.com/palazzograssi/it",
+   "source": "https://www.pinaultcollection.com/palazzograssi/it",
+   "free": false,
+   "ll": [
+    45.43378,
+    12.32795
+   ]
+  },
+  {
+   "id": "fucina",
+   "cat": "mostra",
+   "title": "Fucina degli Angeli. Peggy Guggenheim e il vetro artistico del Novecento",
+   "venue": "Collezione Peggy Guggenheim",
+   "area": "Dorsoduro 701",
+   "start": "2026-11-14",
+   "end": "2027-03-29",
+   "note": {
+    "it": "Oltre cento opere: il vetro di Murano disegnato da Picasso, Braque, Calder, Fontana.",
+    "en": "Over 100 works: Murano glass designed by Picasso, Braque, Calder, Fontana."
+   },
+   "url": "https://www.guggenheim-venice.it/en/whats-on/exhibitions/",
+   "source": "https://www.guggenheim-venice.it/en/press/press-releases/fucina-degli-angeli-peggy-guggenheim-and-20th-century-artistic-glass/",
+   "free": false,
+   "highlight": true,
+   "ll": [
+    45.4308,
+    12.33154
+   ]
+  },
+  {
+   "id": "bertolo",
+   "cat": "mostra",
+   "title": "Luca Bertolo. L'inizio ci assale",
+   "venue": "Palazzetto Marcello",
+   "area": "Castello 5882 · Calle del Dose",
+   "start": "2026-11-05",
+   "end": "2027-02-14",
+   "note": {
+    "it": "La mostra inaugurale di Palazzetto Marcello, a due passi da noi: dipinti e i ‘Bastoni’ dell'artista.",
+    "en": "The opening show of Palazzetto Marcello, a short walk from us: paintings and the artist's 'Staffs'."
+   },
+   "url": "https://www.palazzettomarcello.com/mostre/linizio-ci-assale/",
+   "source": "https://www.palazzettomarcello.com/mostre/linizio-ci-assale/",
+   "free": false,
+   "highlight": true,
+   "ll": [
+    45.43793,
+    12.34
+   ]
+  },
+  {
+   "id": "rubelli",
+   "cat": "mostra",
+   "title": "Nel segno di Venezia. La donazione Alessandro Favaretto Rubelli",
+   "venue": "Ca' Rezzonico",
+   "area": "Dorsoduro",
+   "start": "2026-09-23",
+   "end": "2027-01-11",
+   "note": {
+    "it": "29 disegni di maestri veneti, da Palma il Giovane a Canaletto e Tiepolo.",
+    "en": "29 drawings by Venetian masters, from Palma il Giovane to Canaletto and Tiepolo."
+   },
+   "url": "https://www.visitmuve.it/it/mostre/",
+   "source": "https://www.visitmuve.it/wp-content/uploads/2026/08/Autunno-2026.html",
+   "free": false,
+   "ll": [
+    45.43325,
+    12.32712
+   ]
+  },
+  {
+   "id": "vicentino",
+   "cat": "mostra",
+   "title": "Ospiti a Palazzo – L'ingresso solenne della dogaressa Morosina Morosini Grimani",
+   "venue": "Palazzo Ducale",
+   "area": "San Marco",
+   "start": "2026-10-22",
+   "end": "2027-03-23",
+   "note": {
+    "it": "Il fastoso corteo della dogaressa dipinto da Andrea Vicentino, nella Quadreria.",
+    "en": "Andrea Vicentino's painting of the dogaressa's splendid procession, in the Quadreria."
+   },
+   "url": "https://palazzoducale.visitmuve.it/evento/ospiti-palazzo-vicentino/",
+   "source": "https://palazzoducale.visitmuve.it/evento/ospiti-palazzo-vicentino/",
+   "free": false,
+   "ll": [
+    45.43421,
+    12.34059
+   ]
+  },
+  {
+   "id": "senatore",
+   "cat": "mostra",
+   "title": "Marinella Senatore. We Rise by Lifting Others",
+   "venue": "The Home of The Human Safety Net",
+   "area": "Procuratie Vecchie · Piazza San Marco",
+   "start": "2026-05-07",
+   "end": "2027-03-22",
+   "note": {
+    "it": "Luminaria alta quattro metri e arazzi ricamati. Ingresso libero, chiuso il martedì.",
+    "en": "A four-metre luminaria and embroidered tapestries. Free entry, closed Tuesdays."
+   },
+   "url": "https://www.thehumansafetynet.org/it/marinella-senatore",
+   "source": "https://www.thehumansafetynet.org/it/marinella-senatore",
+   "free": true,
+   "ll": [
+    45.43441,
+    12.33797
+   ]
+  },
+  {
+   "id": "stanze",
+   "cat": "mostra",
+   "title": "Photo / Dance; Reflections · What the Garden Whispers",
+   "venue": "Le Stanze della Fotografia",
+   "area": "Isola di San Giorgio Maggiore",
+   "start": "2026-11-10",
+   "end": "2027-01-27",
+   "note": {
+    "it": "Kawauchi, Bee, Hanania sulla danza e Juliette Agnel sull'Orto del Redentore. Chiuso il mercoledì.",
+    "en": "Kawauchi, Bee, Hanania on dance and Juliette Agnel on the Redentore garden. Closed Wednesdays."
+   },
+   "url": "https://www.cini.it/eventi/photo-dance-reflections-by-rinko-kawauchi-olivia-bee-e-estelle-hanania-e-what-the-garden-whispers-juliette-agnel/",
+   "source": "https://www.cini.it/eventi/photo-dance-reflections-by-rinko-kawauchi-olivia-bee-e-estelle-hanania-e-what-the-garden-whispers-juliette-agnel/",
+   "free": false,
+   "ll": [
+    45.42786,
+    12.3438
+   ]
+  },
+  {
+   "id": "newton",
+   "cat": "mostra",
+   "title": "Alice Springs & Helmut Newton. A Dual Gaze",
+   "venue": "Palazzo Franchetti",
+   "area": "San Marco 2847",
+   "start": "2026-12-16",
+   "end": "2027-03-29",
+   "note": {
+    "it": "Circa cento fotografie: due sguardi opposti sugli stessi volti.",
+    "en": "About one hundred photographs: two opposite gazes on the same faces."
+   },
+   "url": "https://civita.art/mostre/alice-springs-helmut-newtona-dual-gaze/",
+   "source": "https://civita.art/mostre/alice-springs-helmut-newtona-dual-gaze/",
+   "free": false,
+   "highlight": true,
+   "ll": [
+    45.43192,
+    12.32967
+   ]
+  },
+  {
+   "id": "gagno",
+   "cat": "mostra",
+   "title": "Omaggio a Silvio Gagno",
+   "venue": "Ca' Pesaro",
+   "area": "Santa Croce",
+   "start": "2026-12-12",
+   "end": "2027-02-07",
+   "note": {
+    "it": "Il percorso del pittore trevigiano, a cura di Sileno Salvagnini.",
+    "en": "The career of the Treviso-born painter, curated by Sileno Salvagnini."
+   },
+   "url": "https://www.visitmuve.it/it/mostre/",
+   "source": "https://www.visitmuve.it/wp-content/uploads/2026/08/Autunno-2026.html",
+   "free": false,
+   "ll": [
+    45.44097,
+    12.33154
+   ]
+  },
+  {
+   "id": "babel",
+   "cat": "mostra",
+   "title": "BABEL – Marco Toso Borella",
+   "venue": "Museo del Vetro",
+   "area": "Murano",
+   "start": null,
+   "end": "2027-03-31",
+   "note": {
+    "it": "Opere incise su foglia d'oro applicata al vetro. Fino a marzo 2027.",
+    "en": "Works engraved on gold leaf applied to glass. Until March 2027."
+   },
+   "url": "https://www.visitmuve.it/it/mostre/",
+   "source": "https://www.visitmuve.it/wp-content/uploads/2026/08/Autunno-2026.html",
+   "free": false,
+   "end_approx": true,
+   "ll": [
+    45.45662,
+    12.35689
+   ]
+  },
+  {
+   "id": "merletto",
+   "cat": "mostra",
+   "title": "Merletto d'Autore. Biennale del Merletto 2026",
+   "venue": "Museo del Merletto",
+   "area": "Burano",
+   "start": null,
+   "end": "2027-01-08",
+   "note": {
+    "it": "Il merletto d'autore degli anni Venti e Trenta, con prestiti dal Giappone.",
+    "en": "Designer lace of the 1920s and 30s, with loans from Japan."
+   },
+   "url": "https://www.visitmuve.it/it/mostre/",
+   "source": "https://www.visitmuve.it/wp-content/uploads/2026/08/Autunno-2026.html",
+   "free": false,
+   "ll": [
+    45.48473,
+    12.41872
+   ]
+  },
+  {
+   "id": "klimt",
+   "cat": "mostra",
+   "title": "Klimt, Schiele, Kokoschka e il corpo nell'arte contemporanea",
+   "venue": "MUVEC – Casa delle Contemporaneità",
+   "area": "Mestre",
+   "start": "2026-09-26",
+   "end": "2027-02-14",
+   "note": {
+    "it": "Dalla Secessione viennese a Manzoni, Gina Pane, Ana Mendieta.",
+    "en": "From the Vienna Secession to Manzoni, Gina Pane, Ana Mendieta."
+   },
+   "url": "https://www.visitmuve.it/evento/agenda-contemporanea/",
+   "source": "https://www.visitmuve.it/wp-content/uploads/2026/08/Autunno-2026.html",
+   "free": false
+  },
+  {
+   "id": "dacosa",
+   "cat": "mostra",
+   "title": "Da cosa nasce cosa. Atelier 2025-2026",
+   "venue": "Casermetta 9, Forte Marghera",
+   "area": "Mestre",
+   "start": "2026-12-03",
+   "end": "2027-05-09",
+   "note": {
+    "it": "28 artisti under 30 della Bevilacqua La Masa.",
+    "en": "28 under-30 artists from the Bevilacqua La Masa studios."
+   },
+   "url": "https://www.visitmuve.it/it/mostre/",
+   "source": "https://www.visitmuve.it/wp-content/uploads/2026/08/Autunno-2026.html",
+   "free": false,
+   "ll": [
+    45.47518,
+    12.26163
+   ]
+  },
+  {
+   "id": "players",
+   "cat": "mostra",
+   "title": "PLAYERS. Giochi, Videogiochi, Cultura e Società",
+   "venue": "M9 – Museo del '900",
+   "area": "Mestre",
+   "start": "2026-10-14",
+   "end": "2027-02-14",
+   "note": {
+    "it": "Mostra che si gioca: cabinati arcade, console e postazioni interattive.",
+    "en": "An exhibition you play: arcade cabinets, consoles, interactive stations."
+   },
+   "url": "https://www.m9museum.it/mostre/players/",
+   "source": "https://www.m9museum.it/mostre/players/",
+   "free": false,
+   "ll": [
+    45.49167,
+    12.2406
+   ]
+  },
+  {
+   "id": "frizza",
+   "cat": "musica",
+   "title": "Concerto inaugurale · dir. Riccardo Frizza",
+   "venue": "Teatro La Fenice",
+   "area": "San Marco · Campo San Fantin",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "note": {
+    "it": "Sinopoli e Il giudizio universale di Perosi. Orchestra e Coro della Fenice.",
+    "en": "Sinopoli and Perosi's Il giudizio universale. La Fenice Orchestra and Chorus."
+   },
+   "url": "https://www.teatrolafenice.it/event/concertoriccardofrizzasinopoliperosi/",
+   "source": "https://www.teatrolafenice.it/event/concertoriccardofrizzasinopoliperosi/",
+   "free": false,
+   "times": [
+    "2026-11-28T20:00",
+    "2026-11-29T17:00"
+   ],
+   "highlight": true,
+   "ll": [
+    45.43371,
+    12.33386
+   ]
+  },
+  {
+   "id": "ail",
+   "cat": "musica",
+   "title": "Concerto in favore di AIL",
+   "venue": "Teatro La Fenice",
+   "area": "San Marco · Campo San Fantin",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "note": {
+    "it": "Sale Apollinee.",
+    "en": "Sale Apollinee."
+   },
+   "url": "https://feniceonline.tm.vivaticket.com/biglietteria/listaEventiPub.do",
+   "source": "https://feniceonline.tm.vivaticket.com/biglietteria/listaEventiPub.do",
+   "free": false,
+   "times": [
+    "2026-12-01T20:00"
+   ],
+   "ll": [
+    45.43371,
+    12.33386
+   ]
+  },
+  {
+   "id": "tasca",
+   "cat": "musica",
+   "title": "Saverio Tasca Vibes Trio",
+   "venue": "Teatro La Fenice",
+   "area": "San Marco · Campo San Fantin",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "note": {
+    "it": "Jazz nelle Sale Apollinee.",
+    "en": "Jazz in the Sale Apollinee."
+   },
+   "url": "https://feniceonline.tm.vivaticket.com/biglietteria/listaEventiPub.do",
+   "source": "https://feniceonline.tm.vivaticket.com/biglietteria/listaEventiPub.do",
+   "free": false,
+   "times": [
+    "2026-12-02T19:00"
+   ],
+   "ll": [
+    45.43371,
+    12.33386
+   ]
+  },
+  {
+   "id": "kurtag",
+   "cat": "musica",
+   "title": "György Kurtág compie 100 anni!",
+   "venue": "Teatro La Fenice",
+   "area": "San Marco · Campo San Fantin",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "note": {
+    "it": "Sale Apollinee.",
+    "en": "Sale Apollinee."
+   },
+   "url": "https://feniceonline.tm.vivaticket.com/biglietteria/listaEventiPub.do",
+   "source": "https://feniceonline.tm.vivaticket.com/biglietteria/listaEventiPub.do",
+   "free": false,
+   "times": [
+    "2026-12-03T20:00"
+   ],
+   "ll": [
+    45.43371,
+    12.33386
+   ]
+  },
+  {
+   "id": "ioffe",
+   "cat": "musica",
+   "title": "Concerto · dir. Alevtina Ioffe",
+   "venue": "Teatro La Fenice",
+   "area": "San Marco · Campo San Fantin",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "note": {
+    "it": "Čajkovskij (Capriccio italiano, Mozartiana) e Rachmaninov, Sinfonia n. 3.",
+    "en": "Tchaikovsky (Capriccio italien, Mozartiana) and Rachmaninoff's Symphony No. 3."
+   },
+   "url": "https://www.teatrolafenice.it/event/alevtinaiofferachmaninovtchaikovsky/",
+   "source": "https://www.teatrolafenice.it/event/alevtinaiofferachmaninovtchaikovsky/",
+   "free": false,
+   "times": [
+    "2026-12-04T20:00",
+    "2026-12-05T17:00",
+    "2026-12-06T17:00"
+   ],
+   "ll": [
+    45.43371,
+    12.33386
+   ]
+  },
+  {
+   "id": "etoiles",
+   "cat": "danza",
+   "title": "Les Étoiles – gala internazionale di danza",
+   "venue": "Teatro La Fenice",
+   "area": "San Marco · Campo San Fantin",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "note": {
+    "it": "Étoiles del Royal Ballet e non solo, con l'Orchestra della Fenice.",
+    "en": "Stars of the Royal Ballet and more, with La Fenice Orchestra."
+   },
+   "url": "https://www.teatrolafenice.it/nuova-stagione-2026-2027/",
+   "source": "https://www.teatrolafenice.it/wp-content/uploads/2026/11/pds-generale-fenice-26-27_web.pdf",
+   "free": false,
+   "times": [
+    "2026-12-12T19:00",
+    "2026-12-13T15:30"
+   ],
+   "ll": [
+    45.43371,
+    12.33386
+   ]
+  },
+  {
+   "id": "natale-marciana",
+   "cat": "musica",
+   "title": "Concerto di Natale · Cappella Marciana",
+   "venue": "Basilica di San Marco",
+   "area": "San Marco",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "note": {
+    "it": "Omaggio a Giovanni Legrenzi, dir. Marco Gemmani (il 15 solo su invito).",
+    "en": "Tribute to Giovanni Legrenzi, cond. Marco Gemmani (15 Dec by invitation only)."
+   },
+   "url": "https://www.teatrolafenice.it/nuova-stagione-2026-2027/",
+   "source": "https://www.teatrolafenice.it/wp-content/uploads/2026/11/pds-generale-fenice-26-27_web.pdf",
+   "free": false,
+   "times": [
+    "2026-12-16T20:00"
+   ],
+   "ll": [
+    45.43455,
+    12.33982
+   ]
+  },
+  {
+   "id": "kochanovsky",
+   "cat": "musica",
+   "title": "Concerto · dir. Stanislav Kochanovsky",
+   "venue": "Teatro La Fenice",
+   "area": "San Marco · Campo San Fantin",
+   "start": "2026-12-17",
+   "end": "2026-12-18",
+   "note": {
+    "it": "Glinka, Rimskij-Korsakov (La notte prima di Natale), Čajkovskij ‘Sogni d'inverno’.",
+    "en": "Glinka, Rimsky-Korsakov (Christmas Eve), Tchaikovsky 'Winter Daydreams'."
+   },
+   "url": "https://www.teatrolafenice.it/event/stanislavkochanovskyglinkakorsakovtchaikovsky/",
+   "source": "https://www.teatrolafenice.it/event/stanislavkochanovskyglinkakorsakovtchaikovsky/",
+   "free": false,
+   "times": [
+    "2026-12-17T20:00",
+    "2026-12-18T20:00"
+   ],
+   "ll": [
+    45.43371,
+    12.33386
+   ]
+  },
+  {
+   "id": "bigvocal-goldoni",
+   "cat": "musica",
+   "title": "Big Vocal Orchestra · Stand up. La luce del Natale",
+   "venue": "Teatro Goldoni",
+   "area": "San Marco",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "note": {
+    "it": "Concerto-spettacolo con 200 coristi.",
+    "en": "Concert-show with 200 singers."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": false,
+   "times": [
+    "2026-12-19T18:00",
+    "2026-12-20T16:00",
+    "2026-12-20T19:00"
+   ],
+   "ll": [
+    45.43635,
+    12.33522
+   ]
+  },
+  {
+   "id": "bigvocal-piazzetta",
+   "cat": "musica",
+   "title": "Big Vocal Orchestra in Piazzetta",
+   "venue": "Piazzetta San Marco",
+   "area": "San Marco",
+   "start": "2026-12-29",
+   "end": "2026-12-29",
+   "note": {
+    "it": "200 voci tra Piazzetta San Marco e la Loggia Foscara di Palazzo Ducale.",
+    "en": "200 voices between Piazzetta San Marco and the Doge's Palace Loggia Foscara."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": true,
+   "times": [
+    "2026-12-29T17:30"
+   ],
+   "ll": [
+    45.43375,
+    12.3396
+   ]
+  },
+  {
+   "id": "capodanno",
+   "cat": "musica",
+   "title": "Concerto di Capodanno · dir. Gianandrea Noseda",
+   "venue": "Teatro La Fenice",
+   "area": "San Marco · Campo San Fantin",
+   "start": "2026-12-29",
+   "end": "2027-01-01",
+   "note": {
+    "it": "Con Asmik Grigorian e Martin Muehle. Online risultava esaurito al 24/11.",
+    "en": "With Asmik Grigorian and Martin Muehle. Shown as sold out online on 24 Nov."
+   },
+   "url": "https://www.teatrolafenice.it/nuova-stagione-2026-2027/",
+   "source": "https://www.teatrolafenice.it/wp-content/uploads/2026/11/pds-generale-fenice-26-27_web.pdf",
+   "free": false,
+   "times": [
+    "2026-12-29T20:00",
+    "2026-12-30T17:00",
+    "2026-12-31T16:00",
+    "2027-01-01T11:15"
+   ],
+   "ll": [
+    45.43371,
+    12.33386
+   ]
+  },
+  {
+   "id": "luminarie",
+   "cat": "festa",
+   "title": "Luci di Natale tra San Marco e Rialto",
+   "venue": "Area Marciana e Rialto",
+   "area": "San Marco · Rialto",
+   "start": "2026-11-20",
+   "end": "2027-01-07",
+   "note": {
+    "it": "Luminarie e albero in Piazzetta San Marco.",
+    "en": "Christmas lights and the tree in Piazzetta San Marco."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": true,
+   "ll": [
+    45.43375,
+    12.3396
+   ]
+  },
+  {
+   "id": "pattinaggio",
+   "cat": "festa",
+   "title": "Pista di pattinaggio sul ghiaccio",
+   "venue": "Campo San Polo",
+   "area": "San Polo",
+   "start": "2026-11-28",
+   "end": "2027-02-09",
+   "note": {
+    "it": "Nel grande campo di San Polo, fino a Carnevale.",
+    "en": "In the large Campo San Polo, until Carnival."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": false,
+   "ll": [
+    45.43757,
+    12.32992
+   ]
+  },
+  {
+   "id": "lido-natale",
+   "cat": "festa",
+   "title": "Isola del Natale al Lido · mercatini",
+   "venue": "Lido · Piazzale Santa Maria Elisabetta",
+   "area": "Lido",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "note": {
+    "it": "Mercatini tra Santa Maria Elisabetta e Gran Viale; albero acceso il 29 alle 16:30.",
+    "en": "Markets along the Gran Viale; tree lighting on the 29th at 4:30 pm."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": true,
+   "times": [
+    "2026-11-29T16:30"
+   ],
+   "ll": [
+    45.41746,
+    12.36882
+   ]
+  },
+  {
+   "id": "santamarta",
+   "cat": "festa",
+   "title": "Albero di Santa Marta con i Joy Singers",
+   "venue": "Santa Marta",
+   "area": "Dorsoduro · San Basilio",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "note": {
+    "it": "Accensione dell'albero dalle 17.",
+    "en": "Tree lighting from 5 pm."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": true,
+   "times": [
+    "2026-12-03T17:00"
+   ],
+   "ll": [
+    45.43353,
+    12.31125
+   ]
+  },
+  {
+   "id": "antiquariato",
+   "cat": "festa",
+   "title": "Mercatino dell'antiquariato di Campo San Maurizio",
+   "venue": "Campo San Maurizio",
+   "area": "San Marco",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "note": {
+    "it": "Lo storico mercatino, dal 1970.",
+    "en": "The historic antiques market, since 1970."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": true,
+   "ll": [
+    45.43281,
+    12.33168
+   ]
+  },
+  {
+   "id": "burano-natale",
+   "cat": "festa",
+   "title": "Accendiamo il Natale a Burano",
+   "venue": "Burano",
+   "area": "Burano",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "note": {
+    "it": "Coro di bambini e associazioni dell'isola, dalle 17.",
+    "en": "Children's choir and island associations, from 5 pm."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": true,
+   "times": [
+    "2026-12-05T17:00"
+   ],
+   "ll": [
+    45.48453,
+    12.4187
+   ]
+  },
+  {
+   "id": "lido-cinema",
+   "cat": "festa",
+   "title": "Isola del Natale al Palazzo del Cinema",
+   "venue": "Palazzo del Cinema",
+   "area": "Lido",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "note": {
+    "it": "Concerti, laboratori, Casa di Babbo Natale.",
+    "en": "Concerts, workshops, Santa's House."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": false,
+   "ll": [
+    45.40588,
+    12.36708
+   ]
+  },
+  {
+   "id": "sansimeon",
+   "cat": "festa",
+   "title": "Festa di Natale in Campo San Simeon Grande",
+   "venue": "Campo San Simeon Grande",
+   "area": "Santa Croce",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "note": {
+    "it": "Laboratori per bambini, artigianato e due concerti serali.",
+    "en": "Kids' workshops, crafts and two evening concerts."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": true,
+   "ll": [
+    45.44109,
+    12.32411
+   ]
+  },
+  {
+   "id": "corsa-babbi",
+   "cat": "festa",
+   "title": "Corsa dei Babbi Natale (5 km)",
+   "venue": "Campo San Giacomo dell'Orio",
+   "area": "Santa Croce",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "note": {
+    "it": "Partenza alle 9 da Campo San Giacomo dell'Orio.",
+    "en": "Starts 9 am from Campo San Giacomo dell'Orio."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": false,
+   "times": [
+    "2026-12-13T09:00"
+   ]
+  },
+  {
+   "id": "corteo-babbi",
+   "cat": "festa",
+   "title": "Corteo acqueo dei Babbi Natale",
+   "venue": "Canal Grande",
+   "area": "Centro storico",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "note": {
+    "it": "Decine di Babbi Natale a remi lungo il Canal Grande, dalle 10.",
+    "en": "Dozens of rowing Santas along the Grand Canal, from 10 am."
+   },
+   "url": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "source": "https://live.comune.venezia.it/it/2026/11/natale-2026-venezia-e-mestre-si-accendono-di-festa-luminarie-alberi-mercatini-pattinaggio-e",
+   "free": true,
+   "times": [
+    "2026-12-20T10:00"
+   ],
+   "highlight": true
+  }
+ ]
+}

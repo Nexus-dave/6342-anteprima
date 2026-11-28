@@ -1,0 +1,693 @@
+{
+ "aggiornato": "2026-11-24",
+ "centro": [
+  45.43875,
+  12.34244
+ ],
+ "ristorante": {
+  "name": "Spaghetteria 6342 a le Tole",
+  "addr": "Castello 6342, Barbaria de le Tole, 30122 Venezia",
+  "ll": [
+   45.43875,
+   12.34244
+  ],
+  "source": "https://www.openstreetmap.org/node/1521958082"
+ },
+ "attribuzione": "© OpenStreetMap contributors (ODbL)",
+ "punti": [
+  {
+   "cat": "arte",
+   "name": "Ospedaletto · Santa Maria dei Derelitti",
+   "ll": [
+    45.43891,
+    12.34289
+   ],
+   "m": 39,
+   "note": {
+    "it": "Facciata di Longhena e Sala della Musica",
+    "en": "Longhena façade and Music Room"
+   },
+   "source": "https://www.openstreetmap.org/way/138801138"
+  },
+  {
+   "cat": "arte",
+   "name": "Basilica dei Santi Giovanni e Paolo",
+   "ll": [
+    45.43925,
+    12.3422
+   ],
+   "m": 59,
+   "note": {
+    "it": "San Zanipolo, il pantheon dei dogi",
+    "en": "San Zanipolo, the pantheon of the doges"
+   },
+   "source": "https://www.openstreetmap.org/way/153483298"
+  },
+  {
+   "cat": "arte",
+   "name": "Scuola Grande di San Marco",
+   "ll": [
+    45.43979,
+    12.34148
+   ],
+   "m": 138,
+   "note": {
+    "it": "Facciata rinascimentale, oggi ingresso dell'ospedale",
+    "en": "Renaissance façade, now the hospital entrance"
+   },
+   "source": "https://www.openstreetmap.org/node/4798279235"
+  },
+  {
+   "cat": "arte",
+   "name": "Santa Maria Formosa",
+   "ll": [
+    45.43703,
+    12.34104
+   ],
+   "m": 220,
+   "note": {
+    "it": "Chiesa e campo",
+    "en": "Church and campo"
+   },
+   "source": "https://www.openstreetmap.org/way/138804512"
+  },
+  {
+   "cat": "arte",
+   "name": "Santa Maria dei Miracoli",
+   "ll": [
+    45.4395,
+    12.33925
+   ],
+   "m": 262,
+   "note": {
+    "it": "Chiesa",
+    "en": "Church"
+   },
+   "source": "https://www.openstreetmap.org/way/138800840"
+  },
+  {
+   "cat": "arte",
+   "name": "Fondazione Querini Stampalia",
+   "ll": [
+    45.43646,
+    12.34103
+   ],
+   "m": 277,
+   "note": {
+    "it": "Museo, biblioteca e Carlo Scarpa · mar–dom 10–18",
+    "en": "Museum, library and Carlo Scarpa · Tue–Sun 10am–6pm"
+   },
+   "source": "https://www.openstreetmap.org/node/5366863424"
+  },
+  {
+   "cat": "atm",
+   "name": "Bancomat · Euronet",
+   "ll": [
+    45.43881,
+    12.34224
+   ],
+   "m": 17,
+   "note": {
+    "it": "Sportello ATM",
+    "en": "Cash machine"
+   },
+   "source": "https://www.openstreetmap.org/node/14014434523"
+  },
+  {
+   "cat": "atm",
+   "name": "Bancomat · Euronet Worldwide",
+   "ll": [
+    45.43795,
+    12.34231
+   ],
+   "m": 89,
+   "note": {
+    "it": "Sportello ATM",
+    "en": "Cash machine"
+   },
+   "source": "https://www.openstreetmap.org/node/4858450703"
+  },
+  {
+   "cat": "atm",
+   "name": "Bancomat",
+   "ll": [
+    45.43854,
+    12.34395
+   ],
+   "m": 120,
+   "note": {
+    "it": "Sportello ATM",
+    "en": "Cash machine"
+   },
+   "source": "https://www.openstreetmap.org/node/10286129433"
+  },
+  {
+   "cat": "atm",
+   "name": "Bancomat",
+   "ll": [
+    45.44013,
+    12.34241
+   ],
+   "m": 154,
+   "note": {
+    "it": "Sportello ATM",
+    "en": "Cash machine"
+   },
+   "source": "https://www.openstreetmap.org/node/6961293386"
+  },
+  {
+   "cat": "atm",
+   "name": "Bancomat",
+   "ll": [
+    45.43668,
+    12.34198
+   ],
+   "m": 233,
+   "note": {
+    "it": "Sportello ATM",
+    "en": "Cash machine"
+   },
+   "source": "https://www.openstreetmap.org/node/12193916054"
+  },
+  {
+   "cat": "atm",
+   "name": "Bancomat · Euronet",
+   "ll": [
+    45.43983,
+    12.33975
+   ],
+   "m": 242,
+   "note": {
+    "it": "Sportello ATM",
+    "en": "Cash machine"
+   },
+   "source": "https://www.openstreetmap.org/node/10922233465"
+  },
+  {
+   "cat": "atm",
+   "name": "Bancomat · Euronet",
+   "ll": [
+    45.43829,
+    12.33928
+   ],
+   "m": 252,
+   "note": {
+    "it": "Sportello ATM",
+    "en": "Cash machine"
+   },
+   "source": "https://www.openstreetmap.org/node/10922241638"
+  },
+  {
+   "cat": "atm",
+   "name": "Bancomat · ATM",
+   "ll": [
+    45.44088,
+    12.33991
+   ],
+   "m": 309,
+   "note": {
+    "it": "Sportello ATM",
+    "en": "Cash machine"
+   },
+   "source": "https://www.openstreetmap.org/node/10922227417"
+  },
+  {
+   "cat": "farmacia",
+   "name": "Farmacia dell'Orso",
+   "ll": [
+    45.43754,
+    12.34111
+   ],
+   "m": 170,
+   "note": {
+    "it": "Farmacia · orari OSM: Mo-Sa 09:00-19:30",
+    "en": "Pharmacy · OSM hours: Mo-Sa 09:00-19:30"
+   },
+   "source": "https://www.openstreetmap.org/node/12815212493"
+  },
+  {
+   "cat": "farmacia",
+   "name": "Farmacia alle Due Colonne",
+   "ll": [
+    45.43987,
+    12.33869
+   ],
+   "m": 318,
+   "note": {
+    "it": "Farmacia · orari OSM: Mo-Fr 08:30-13:00,15:30-19:30; Sa 08:45-12:45",
+    "en": "Pharmacy · OSM hours: Mo-Fr 08:30-13:00,15:30-19:30; Sa 08:45-12:45"
+   },
+   "source": "https://www.openstreetmap.org/node/1636849138"
+  },
+  {
+   "cat": "farmacia",
+   "name": "al Pellegrino",
+   "ll": [
+    45.43758,
+    12.33819
+   ],
+   "m": 356,
+   "note": {
+    "it": "Farmacia",
+    "en": "Pharmacy"
+   },
+   "source": "https://www.openstreetmap.org/node/1625636300"
+  },
+  {
+   "cat": "farmacia",
+   "name": "Farmacia al Lupo Coronato",
+   "ll": [
+    45.43506,
+    12.34169
+   ],
+   "m": 415,
+   "note": {
+    "it": "Farmacia",
+    "en": "Pharmacy"
+   },
+   "source": "https://www.openstreetmap.org/node/4437783675"
+  },
+  {
+   "cat": "farmacia",
+   "name": "Farmacia alla Croce di Malta",
+   "ll": [
+    45.43557,
+    12.34592
+   ],
+   "m": 446,
+   "note": {
+    "it": "Farmacia · orari OSM: Mo-Sa 09:00-19:30",
+    "en": "Pharmacy · OSM hours: Mo-Sa 09:00-19:30"
+   },
+   "source": "https://www.openstreetmap.org/node/590057613"
+  },
+  {
+   "cat": "farmacia",
+   "name": "Farmacia Morelli",
+   "ll": [
+    45.43762,
+    12.33691
+   ],
+   "m": 450,
+   "note": {
+    "it": "Farmacia",
+    "en": "Pharmacy"
+   },
+   "source": "https://www.openstreetmap.org/node/4217838067"
+  },
+  {
+   "cat": "farmacia",
+   "name": "Farmacia Morello",
+   "ll": [
+    45.43761,
+    12.33666
+   ],
+   "m": 468,
+   "note": {
+    "it": "Farmacia",
+    "en": "Pharmacy"
+   },
+   "source": "https://www.openstreetmap.org/node/11951647170"
+  },
+  {
+   "cat": "farmacia",
+   "name": "Alla Fama",
+   "ll": [
+    45.44054,
+    12.33629
+   ],
+   "m": 520,
+   "note": {
+    "it": "Farmacia",
+    "en": "Pharmacy"
+   },
+   "source": "https://www.openstreetmap.org/node/1624050560"
+  },
+  {
+   "cat": "gondola",
+   "name": "Stazio e traghetto Santa Sofia",
+   "ll": [
+    45.44018,
+    12.33441
+   ],
+   "m": 647,
+   "note": {
+    "it": "Attraversamento del Canal Grande in gondola · orari OSM: Mo-Fr 08:30-19:00; Sa-Su, PH 09:00-18:00 · giri: tel. 041 4765349",
+    "en": "Grand Canal crossing by gondola · OSM hours: Mo-Fr 08:30-19:00; Sa-Su, PH 09:00-18:00 · rides: tel. +39 041 4765349"
+   },
+   "source": "https://www.openstreetmap.org/way/216893104 ; https://www.comune.venezia.it/it/content/servizio-gondola",
+   "tel": "+390414765349"
+  },
+  {
+   "cat": "gondola",
+   "name": "Stazio gondole San Beneto · Bacino Orseolo",
+   "ll": [
+    45.43426,
+    12.33694
+   ],
+   "m": 658,
+   "note": {
+    "it": "Giro in gondola: tariffa comunale 90 € / 30 min (9–19) · tel. 347 5425236",
+    "en": "Gondola ride: city fare €90 / 30 min (9am–7pm) · tel. +39 347 5425236"
+   },
+   "source": "https://www.comune.venezia.it/it/content/servizio-gondola ; posizione: https://www.openstreetmap.org/way/348956092",
+   "tel": "+393475425236"
+  },
+  {
+   "cat": "gondola",
+   "name": "Traghetto in gondola Riva del Vin",
+   "ll": [
+    45.43693,
+    12.33411
+   ],
+   "m": 681,
+   "note": {
+    "it": "Attraversamento del Canal Grande in gondola · orari OSM: Mo-Fr 09:00-12:00; Sa, Su, PH closed",
+    "en": "Grand Canal crossing by gondola · OSM hours: Mo-Fr 09:00-12:00; Sa, Su, PH closed"
+   },
+   "source": "https://www.openstreetmap.org/way/1388486822"
+  },
+  {
+   "cat": "gondola",
+   "name": "Stazio e traghetto Dogana",
+   "ll": [
+    45.43171,
+    12.33675
+   ],
+   "m": 900,
+   "note": {
+    "it": "Attraversamento del Canal Grande in gondola · orari OSM: 10:00-18:00 · giri: tel. 041 5206120",
+    "en": "Grand Canal crossing by gondola · OSM hours: 10:00-18:00 · rides: tel. +39 041 5206120"
+   },
+   "source": "https://www.openstreetmap.org/way/952112466 ; https://www.comune.venezia.it/it/content/servizio-gondola",
+   "tel": "+390415206120"
+  },
+  {
+   "cat": "info",
+   "name": "Informazioni turistiche",
+   "ll": [
+    45.43332,
+    12.33727
+   ],
+   "m": 726,
+   "note": {
+    "it": "Ufficio informazioni (dato OSM, verificare orari) · call center Venezia Unica 041 2424",
+    "en": "Tourist office (OSM data, check hours) · Venezia Unica call centre +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/4214533862"
+  },
+  {
+   "cat": "ospedale",
+   "name": "Ospedale SS. Giovanni e Paolo · Pronto soccorso",
+   "ll": [
+    45.44036,
+    12.34347
+   ],
+   "m": 196,
+   "note": {
+    "it": "Castello 6777 · centralino 041 5294111",
+    "en": "Castello 6777 · switchboard +39 041 5294111"
+   },
+   "source": "https://www.openstreetmap.org/way/170235724",
+   "tel": "+390415294111"
+  },
+  {
+   "cat": "taxi",
+   "name": "Posteggio taxi acqueo",
+   "ll": [
+    45.43773,
+    12.33592
+   ],
+   "m": 521,
+   "note": {
+    "it": "Prenotazioni 24h: Consorzio Motoscafi 041 522 2303",
+    "en": "24h bookings: Consorzio Motoscafi +39 041 522 2303"
+   },
+   "source": "https://www.openstreetmap.org/node/11288618854",
+   "tel": "+390415222303"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · Ospedale",
+   "ll": [
+    45.44088,
+    12.34477
+   ],
+   "m": 299,
+   "note": {
+    "it": "Fermata Actv (1 pontile) · info 041 2424",
+    "en": "Actv stop (1 pier) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/1996193060",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · Fondamente Nove",
+   "ll": [
+    45.44325,
+    12.34049
+   ],
+   "m": 523,
+   "note": {
+    "it": "Fermata Actv (4 pontili) · info 041 2424",
+    "en": "Actv stop (4 piers) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/643584311",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · Rialto Mercato",
+   "ll": [
+    45.43944,
+    12.33531
+   ],
+   "m": 562,
+   "note": {
+    "it": "Fermata Actv (1 pontile) · info 041 2424",
+    "en": "Actv stop (1 pier) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/2090158891",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · Celestia",
+   "ll": [
+    45.43909,
+    12.34967
+   ],
+   "m": 566,
+   "note": {
+    "it": "Fermata Actv (1 pontile) · info 041 2424",
+    "en": "Actv stop (1 pier) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/1996193107",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · San Zaccaria",
+   "ll": [
+    45.43341,
+    12.34326
+   ],
+   "m": 597,
+   "note": {
+    "it": "Fermata Actv (7 pontili) · info 041 2424",
+    "en": "Actv stop (7 piers) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/27465310",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · Rialto",
+   "ll": [
+    45.43728,
+    12.33506
+   ],
+   "m": 599,
+   "note": {
+    "it": "Fermata Actv (4 pontili) · info 041 2424",
+    "en": "Actv stop (4 piers) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/2961006745",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · Ca' D' Oro",
+   "ll": [
+    45.44055,
+    12.33389
+   ],
+   "m": 696,
+   "note": {
+    "it": "Fermata Actv (1 pontile) · info 041 2424",
+    "en": "Actv stop (1 pier) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/1905904217",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · San Silvestro",
+   "ll": [
+    45.43678,
+    12.33318
+   ],
+   "m": 755,
+   "note": {
+    "it": "Fermata Actv (1 pontile) · info 041 2424",
+    "en": "Actv stop (1 pier) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/2090158879",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · San Marco Giardinetti",
+   "ll": [
+    45.43236,
+    12.3382
+   ],
+   "m": 784,
+   "note": {
+    "it": "Fermata Actv (2 pontili) · info 041 2424",
+    "en": "Actv stop (2 piers) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/2962870911",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · Arsenale",
+   "ll": [
+    45.43281,
+    12.34844
+   ],
+   "m": 809,
+   "note": {
+    "it": "Fermata Actv (2 pontili) · info 041 2424",
+    "en": "Actv stop (2 piers) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/2714417418",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "vaporetto",
+   "name": "Vaporetto · San Marco Vallaresso",
+   "ll": [
+    45.43212,
+    12.33741
+   ],
+   "m": 836,
+   "note": {
+    "it": "Fermata Actv (2 pontili) · info 041 2424",
+    "en": "Actv stop (2 piers) · info +39 041 2424"
+   },
+   "source": "https://www.openstreetmap.org/node/2714417410",
+   "tel": "+390412424"
+  },
+  {
+   "cat": "wc",
+   "name": "WC pubblico",
+   "ll": [
+    45.4376,
+    12.34594
+   ],
+   "m": 302,
+   "note": {
+    "it": "Servizio a pagamento",
+    "en": "Paid public toilet"
+   },
+   "source": "https://www.openstreetmap.org/way/454534527"
+  },
+  {
+   "cat": "wc",
+   "name": "WC pubblico · Veritas",
+   "ll": [
+    45.4352,
+    12.34109
+   ],
+   "m": 408,
+   "note": {
+    "it": "Servizio a pagamento · orari OSM: Mo-Th 09:30-19:30; Fr-Sa 09:30-21:00; Su 09:30-20:30",
+    "en": "Paid public toilet · OSM hours: Mo-Th 09:30-19:30; Fr-Sa 09:30-21:00; Su 09:30-20:30"
+   },
+   "source": "https://www.openstreetmap.org/node/7133830587"
+  },
+  {
+   "cat": "wc",
+   "name": "WC pubblico",
+   "ll": [
+    45.43798,
+    12.33714
+   ],
+   "m": 422,
+   "note": {
+    "it": "Servizio a pagamento · orari OSM: Mo-Su 09:00-21:00",
+    "en": "Paid public toilet · OSM hours: Mo-Su 09:00-21:00"
+   },
+   "source": "https://www.openstreetmap.org/node/1681395357"
+  },
+  {
+   "cat": "wc",
+   "name": "WC pubblico",
+   "ll": [
+    45.43839,
+    12.33468
+   ],
+   "m": 606,
+   "note": {
+    "it": "Servizio a pagamento · orari OSM: Mo-Su 09:00-19:30",
+    "en": "Paid public toilet · OSM hours: Mo-Su 09:00-19:30"
+   },
+   "source": "https://www.openstreetmap.org/node/1681395362"
+  },
+  {
+   "cat": "wc",
+   "name": "WC pubblico",
+   "ll": [
+    45.43412,
+    12.34813
+   ],
+   "m": 680,
+   "note": {
+    "it": "Servizio a pagamento · orari OSM: Mo-Su 10:00-18:00; PH off",
+    "en": "Paid public toilet · OSM hours: Mo-Su 10:00-18:00; PH off"
+   },
+   "source": "https://www.openstreetmap.org/node/1854966424"
+  },
+  {
+   "cat": "wc",
+   "name": "WC pubblico",
+   "ll": [
+    45.43353,
+    12.33677
+   ],
+   "m": 730,
+   "note": {
+    "it": "Servizio a pagamento · orari OSM: Mo-Su 09:30-20:00",
+    "en": "Paid public toilet · OSM hours: Mo-Su 09:30-20:00"
+   },
+   "source": "https://www.openstreetmap.org/node/2830828621"
+  },
+  {
+   "cat": "wc",
+   "name": "WC pubblico",
+   "ll": [
+    45.43281,
+    12.3375
+   ],
+   "m": 764,
+   "note": {
+    "it": "Servizio a pagamento · orari OSM: Mo-Su 09:30-17:30; PH closed",
+    "en": "Paid public toilet · OSM hours: Mo-Su 09:30-17:30; PH closed"
+   },
+   "source": "https://www.openstreetmap.org/node/10611341982"
+  }
+ ]
+}

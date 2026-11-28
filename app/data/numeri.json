@@ -1,0 +1,394 @@
+{
+ "aggiornato": "2026-11-24",
+ "gruppi": [
+  {
+   "id": "emergenza",
+   "titolo": {
+    "it": "Emergenze",
+    "en": "Emergencies",
+    "de": "Notfälle",
+    "fr": "Urgences",
+    "es": "Emergencias",
+    "ru": "Экстренные службы",
+    "ja": "緊急",
+    "zh": "紧急求助",
+    "ko": "긴급"
+   },
+   "voci": [
+    {
+     "nome": {
+      "it": "Numero unico di emergenza",
+      "en": "European emergency number",
+      "de": "Europäischer Notruf",
+      "fr": "Numéro d'urgence européen",
+      "es": "Número único de emergencia",
+      "ru": "Единый номер экстренных служб",
+      "ja": "欧州共通緊急番号",
+      "zh": "欧洲统一紧急号码",
+      "ko": "유럽 공통 긴급 번호"
+     },
+     "tel": "112",
+     "nota": {
+      "it": "In Veneto la chiamata è presa in carico dai Carabinieri e smistata (modello transitorio fino al 2028)",
+      "en": "In the Veneto region calls are answered by the Carabinieri and routed (transitional model until 2028)",
+      "es": "En el Véneto atienden los Carabinieri y derivan la llamada (modelo transitorio hasta 2028)",
+      "ru": "В Венето звонки принимают карабинеры и перенаправляют (переходная схема до 2028 года)",
+      "ja": "ヴェネト州ではカラビニエリが受けて転送します（2028年までの暫定方式）",
+      "zh": "在威尼托大区由宪兵接听并转接（过渡模式，至2028年）",
+      "ko": "베네토주에서는 카라비니에리가 받아 연결합니다(2028년까지 과도기 방식)",
+      "de": "In Venetien nehmen die Carabinieri den Anruf an und leiten ihn weiter (Übergangsmodell bis 2028)",
+      "fr": "En Vénétie, les Carabiniers répondent et transfèrent l'appel (modèle transitoire jusqu'en 2028)"
+     },
+     "fonte": "https://www.regione.veneto.it/article-detail?articleId=14413879"
+    },
+    {
+     "nome": {
+      "it": "Emergenza sanitaria · ambulanza e idroambulanza",
+      "en": "Medical emergency · ambulance and water ambulance",
+      "de": "Rettungsdienst · auch Boot",
+      "fr": "Urgence médicale · ambulance et bateau-ambulance",
+      "es": "Emergencia sanitaria · ambulancia y ambulancia acuática",
+      "ru": "Скорая помощь · в том числе водная",
+      "ja": "救急・救急車と水上救急艇",
+      "zh": "医疗急救 · 救护车与水上救护艇",
+      "ko": "응급 의료 · 구급차와 수상 구급정"
+     },
+     "tel": "118",
+     "fonte": "https://www.aulss3.veneto.it/myportal/AU12VE/api/content/download?id=63e64e8b578f310088d15abe"
+    },
+    {
+     "nome": {
+      "it": "Ospedale SS. Giovanni e Paolo · centralino",
+      "en": "SS. Giovanni e Paolo Hospital · switchboard",
+      "de": "Krankenhaus SS. Giovanni e Paolo · Zentrale",
+      "fr": "Hôpital SS. Giovanni e Paolo · standard",
+      "es": "Hospital SS. Giovanni e Paolo · centralita",
+      "ru": "Больница Санти-Джованни-э-Паоло · коммутатор",
+      "ja": "サンティ・ジョヴァンニ・エ・パオロ病院・代表",
+      "zh": "圣若望及保禄医院 · 总机",
+      "ko": "산티 조반니 에 파올로 병원 · 대표 번호"
+     },
+     "tel": "041 5294111",
+     "nota": {
+      "it": "Pronto soccorso · Castello 6777, a 200 m da noi",
+      "en": "A&E · Castello 6777, 200 m from us",
+      "es": "Urgencias · Castello 6777, a 200 m de nosotros",
+      "ru": "Приёмный покой · Кастелло 6777, в 200 м от нас",
+      "ja": "救急外来・カステッロ6777、当店から200m",
+      "zh": "急诊 · 城堡区6777号，距我们200米",
+      "ko": "응급실 · 카스텔로 6777, 저희 식당에서 200m",
+      "de": "Notaufnahme · Castello 6777, 200 m von uns",
+      "fr": "Urgences · Castello 6777, à 200 m de chez nous"
+     },
+     "fonte": "https://www.aulss3.veneto.it/myportal/AU12VE/api/content/download?id=63e5f628afc2fb0088cd18db"
+    },
+    {
+     "nome": {
+      "it": "Polizia Locale · centrale operativa",
+      "en": "Local Police · control room",
+      "de": "Stadtpolizei · Einsatzzentrale",
+      "fr": "Police municipale · centrale",
+      "es": "Policía Local · central operativa",
+      "ru": "Муниципальная полиция · дежурная часть",
+      "ja": "市警察・指令センター",
+      "zh": "地方警察 · 指挥中心",
+      "ko": "지역 경찰 · 상황실"
+     },
+     "tel": "041 2747070",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    }
+   ]
+  },
+  {
+   "id": "farmacie",
+   "titolo": {
+    "it": "Farmacie",
+    "en": "Pharmacies",
+    "de": "Apotheken",
+    "fr": "Pharmacies",
+    "es": "Farmacias",
+    "ru": "Аптеки",
+    "ja": "薬局",
+    "zh": "药店",
+    "ko": "약국"
+   },
+   "voci": [
+    {
+     "nome": {
+      "it": "Farmacie di turno · Venezia e isole",
+      "en": "Pharmacies on duty · Venice and islands",
+      "de": "Notdienst-Apotheken",
+      "fr": "Pharmacies de garde",
+      "es": "Farmacias de guardia · Venecia e islas",
+      "ru": "Дежурные аптеки · Венеция и острова",
+      "ja": "当番薬局・ヴェネツィアと島々",
+      "zh": "值班药店 · 威尼斯及各岛",
+      "ko": "당번 약국 · 베네치아와 섬"
+     },
+     "url": "https://www.federfarmave.it/index.php/farmacie-di-turno/",
+     "nota": {
+      "it": "Elenco ufficiale Federfarma Venezia (ASL 3 Venezia e Isole)",
+      "en": "Official Federfarma Venezia list",
+      "es": "Lista oficial de Federfarma Venezia",
+      "ru": "Официальный список Federfarma Venezia",
+      "ja": "Federfarma Veneziaの公式リスト",
+      "zh": "Federfarma Venezia官方名单",
+      "ko": "Federfarma Venezia 공식 목록",
+      "de": "Offizielle Liste von Federfarma Venezia",
+      "fr": "Liste officielle de Federfarma Venezia"
+     },
+     "fonte": "https://www.federfarmave.it/index.php/farmacie-di-turno/"
+    }
+   ]
+  },
+  {
+   "id": "trasporti",
+   "titolo": {
+    "it": "Vaporetto e taxi acqueo",
+    "en": "Waterbus and water taxi",
+    "de": "Vaporetto und Wassertaxi",
+    "fr": "Vaporetto et bateau-taxi",
+    "es": "Vaporetto y taxi acuático",
+    "ru": "Вапоретто и водное такси",
+    "ja": "水上バスと水上タクシー",
+    "zh": "水上巴士与水上出租车",
+    "ko": "수상 버스와 수상 택시"
+   },
+   "voci": [
+    {
+     "nome": {
+      "it": "Hellovenezia · Actv e Venezia Unica",
+      "en": "Hellovenezia · Actv and Venezia Unica",
+      "de": "Hellovenezia · Actv und Venezia Unica",
+      "fr": "Hellovenezia · Actv et Venezia Unica",
+      "es": "Hellovenezia · Actv y Venezia Unica",
+      "ru": "Hellovenezia · Actv и Venezia Unica",
+      "ja": "Hellovenezia・ActvとVenezia Unica",
+      "zh": "Hellovenezia · Actv与Venezia Unica",
+      "ko": "Hellovenezia · Actv와 Venezia Unica"
+     },
+     "tel": "041 2424",
+     "nota": {
+      "it": "Orari vaporetti, biglietti, info turistiche · tutti i giorni 7:30–20",
+      "en": "Waterbus timetables, tickets, visitor info · daily 7:30am–8pm",
+      "es": "Horarios del vaporetto, billetes, información · todos los días 7:30–20",
+      "ru": "Расписание вапоретто, билеты, справки · ежедневно 7:30–20",
+      "ja": "水上バスの時刻表・切符・案内・毎日7時30分–20時",
+      "zh": "水上巴士时刻、票务、游客咨询 · 每天7:30–20点",
+      "ko": "수상 버스 시간표·승차권·안내 · 매일 7:30–20시",
+      "de": "Vaporetto-Fahrpläne, Tickets, Infos · täglich 7:30–20 Uhr",
+      "fr": "Horaires des vaporetti, billets, infos · tous les jours 7h30–20h"
+     },
+     "fonte": "https://actv.avmspa.it/sites/default/files/WEB_Carta_mobilit%C3%A0_2017.pdf"
+    },
+    {
+     "nome": {
+      "it": "Actv · emergenze notturne navigazione",
+      "en": "Actv · night emergencies (boats)",
+      "de": "Actv · Notfälle nachts (Boote)",
+      "fr": "Actv · urgences de nuit (bateaux)",
+      "es": "Actv · emergencias nocturnas (barcos)",
+      "ru": "Actv · ночные экстренные случаи (суда)",
+      "ja": "Actv・夜間の緊急（船）",
+      "zh": "Actv · 夜间紧急情况（船只）",
+      "ko": "Actv · 야간 긴급(선박)"
+     },
+     "tel": "800 845065",
+     "nota": {
+      "it": "Numero gratuito",
+      "en": "Toll-free",
+      "es": "Gratuito",
+      "ru": "Бесплатно",
+      "ja": "フリーダイヤル",
+      "zh": "免费电话",
+      "ko": "무료 전화",
+      "de": "Gebührenfrei",
+      "fr": "Numéro gratuit"
+     },
+     "fonte": "https://actv.avmspa.it/sites/default/files/WEB_Carta_mobilit%C3%A0_2017.pdf"
+    },
+    {
+     "nome": {
+      "it": "Taxi acqueo · Consorzio Motoscafi Venezia",
+      "en": "Water taxi · Consorzio Motoscafi Venezia",
+      "de": "Wassertaxi · Consorzio Motoscafi",
+      "fr": "Bateau-taxi · Consorzio Motoscafi",
+      "es": "Taxi acuático · Consorzio Motoscafi Venezia",
+      "ru": "Водное такси · Consorzio Motoscafi Venezia",
+      "ja": "水上タクシー・Consorzio Motoscafi Venezia",
+      "zh": "水上出租车 · Consorzio Motoscafi Venezia",
+      "ko": "수상 택시 · Consorzio Motoscafi Venezia"
+     },
+     "tel": "041 522 2303",
+     "nota": {
+      "it": "Call center 24 ore su 24",
+      "en": "24-hour call centre",
+      "es": "Centralita 24 horas",
+      "ru": "Круглосуточная служба",
+      "ja": "24時間受付",
+      "zh": "24小时服务",
+      "ko": "24시간 콜센터",
+      "de": "Rund um die Uhr erreichbar",
+      "fr": "Centrale 24 h/24"
+     },
+     "fonte": "https://www.motoscafivenezia.com/it/contatti.php"
+    }
+   ]
+  },
+  {
+   "id": "gondole",
+   "titolo": {
+    "it": "Giro in gondola · stazi ufficiali",
+    "en": "Gondola rides · official stands",
+    "de": "Gondelfahrt · offizielle Stände",
+    "fr": "Gondole · stations officielles",
+    "es": "Góndolas · paradas oficiales",
+    "ru": "Гондолы · официальные стоянки",
+    "ja": "ゴンドラ・公式乗り場",
+    "zh": "贡多拉 · 官方停靠点",
+    "ko": "곤돌라 · 공식 승강장"
+   },
+   "intro": {
+    "it": "Tariffa fissata dal Comune: 90 € per 30 minuti (9–19), 110 € per 35 minuti (19–4). Prezzo per gondola, massimo 5 persone.",
+    "en": "City-set fare: €90 for 30 minutes (9am–7pm), €110 for 35 minutes (7pm–4am). Price per gondola, up to 5 people.",
+    "es": "Tarifa fijada por el Ayuntamiento: 90 € por 30 minutos (9–19), 110 € por 35 minutos (19–4). Precio por góndola, hasta 5 personas.",
+    "ru": "Тариф установлен городом: 90 € за 30 минут (9–19), 110 € за 35 минут (19–4). Цена за гондолу, до 5 человек.",
+    "ja": "市が定めた料金：30分90ユーロ（9–19時）、35分110ユーロ（19–4時）。ゴンドラ1艘の料金で最大5人まで。",
+    "zh": "市政府规定价格：30分钟90欧元（9–19点），35分钟110欧元（19–4点）。按船计价，最多5人。",
+    "ko": "시가 정한 요금: 30분 90유로(9–19시), 35분 110유로(19–4시). 곤돌라 1척 요금, 최대 5명.",
+    "de": "Von der Stadt festgelegter Tarif: 90 € für 30 Minuten (9–19 Uhr), 110 € für 35 Minuten (19–4 Uhr). Preis pro Gondel, bis zu 5 Personen.",
+    "fr": "Tarif fixé par la Ville : 90 € pour 30 minutes (9h–19h), 110 € pour 35 minutes (19h–4h). Prix par gondole, jusqu'à 5 personnes."
+   },
+   "voci": [
+    {
+     "nome": {
+      "it": "Danieli"
+     },
+     "tel": "041 5222254",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "Molo"
+     },
+     "tel": "041 5200685",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "Dogana"
+     },
+     "tel": "041 5206120",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "Trinità"
+     },
+     "tel": "041 5231837",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "Santa Maria del Giglio"
+     },
+     "tel": "041 5222073",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "San Tomà"
+     },
+     "tel": "041 5205275",
+     "tel2": "340 8677568",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "San Beneto · Bacino Orseolo"
+     },
+     "tel": "347 5425236",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "Carbon"
+     },
+     "tel": "041 5299028",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "Santa Sofia"
+     },
+     "tel": "041 4765349",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "San Marcuola"
+     },
+     "tel": "338 2599604",
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    }
+   ]
+  },
+  {
+   "id": "citta",
+   "titolo": {
+    "it": "Comune e informazioni",
+    "en": "City & information",
+    "de": "Stadt & Information",
+    "fr": "Ville & informations",
+    "es": "Ciudad e información",
+    "ru": "Город и справки",
+    "ja": "市役所・案内",
+    "zh": "市政与咨询",
+    "ko": "시청 및 안내"
+   },
+   "voci": [
+    {
+     "nome": {
+      "it": "Comune di Venezia · call center unico",
+      "en": "City of Venice · call centre",
+      "de": "Stadt Venedig · Callcenter",
+      "fr": "Ville de Venise · centre d'appels",
+      "es": "Ayuntamiento de Venecia · centro de llamadas",
+      "ru": "Мэрия Венеции · колл-центр",
+      "ja": "ヴェネツィア市・コールセンター",
+      "zh": "威尼斯市政府 · 呼叫中心",
+      "ko": "베네치아시 · 콜센터"
+     },
+     "tel": "041 041",
+     "nota": {
+      "it": "8:00–18:00 · segnalazioni e informazioni",
+      "en": "8am–6pm · reports and information",
+      "es": "8–18 · avisos e información",
+      "ru": "8–18 · обращения и справки",
+      "ja": "8–18時・通報と案内",
+      "zh": "8–18点 · 报告与咨询",
+      "ko": "8–18시 · 신고 및 안내",
+      "de": "8–18 Uhr · Meldungen und Auskünfte",
+      "fr": "8h–18h · signalements et informations"
+     },
+     "fonte": "https://www.comune.venezia.it/it/content/servizio-gondola"
+    },
+    {
+     "nome": {
+      "it": "Venezia Unica · modulo informazioni turistiche",
+      "en": "Venezia Unica · visitor information form",
+      "de": "Venezia Unica · Touristeninfo",
+      "fr": "Venezia Unica · infos touristiques",
+      "es": "Venezia Unica · formulario de información",
+      "ru": "Venezia Unica · форма запроса информации",
+      "ja": "Venezia Unica・問い合わせフォーム",
+      "zh": "Venezia Unica · 咨询表单",
+      "ko": "Venezia Unica · 문의 양식"
+     },
+     "url": "https://avm.avmspa.it/it/content/sf-venezia-unica-primo-contatto",
+     "fonte": "https://www.veneziaunica.it/it"
+    }
+   ]
+  }
+ ]
+}

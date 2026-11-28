@@ -1,0 +1,2687 @@
+{
+ "aggiornato": "2026-11-22",
+ "fonte": "menu-6342 v-split 2026-11-22 (menu_semplice.py); DE/FR da base/menu.json (bozza, da rivedere)",
+ "coperto": {
+  "it": "Coperto",
+  "en": "Cover charge",
+  "de": "Gedeck",
+  "fr": "Couvert",
+  "price": "€ 4,00",
+  "es": "Cubierto",
+  "ru": "Обслуживание (coperto)",
+  "ja": "席料（コペルト）",
+  "zh": "餐位费（coperto）",
+  "ko": "자릿세(코페르토)"
+ },
+ "aggiunte": {
+  "it": "Aggiunte sulla pizza",
+  "en": "Extra toppings",
+  "de": "Extra-Beläge",
+  "fr": "Suppléments",
+  "price": "€ 2,50",
+  "es": "Ingredientes extra en la pizza",
+  "ru": "Дополнительные начинки для пиццы",
+  "ja": "ピッツァの追加トッピング",
+  "zh": "披萨额外配料",
+  "ko": "피자 추가 토핑"
+ },
+ "menus": [
+  {
+   "id": "pasta",
+   "name": "Spaghetteria",
+   "sections": [
+    {
+     "id": "antipasti",
+     "title": {
+      "it": "Antipasti",
+      "en": "Starters",
+      "de": "Vorspeisen",
+      "fr": "Entrées",
+      "es": "Entrantes",
+      "ru": "Закуски",
+      "ja": "前菜",
+      "zh": "前菜",
+      "ko": "전채"
+     },
+     "items": [
+      {
+       "name": "Tomino fritto",
+       "price": "€ 18,00",
+       "allergens": [
+        1,
+        3,
+        7
+       ],
+       "desc": {
+        "it": "funghi misti e miele piccante",
+        "en": "mixed mushrooms, spicy honey",
+        "de": "Frittierter Tomino-Käse auf gemischten Pilzen mit scharfem Honig",
+        "fr": "Tomino frit sur lit de champignons mélangés et miel pimenté",
+        "es": "setas variadas, miel picante",
+        "ru": "грибное ассорти, острый мёд",
+        "ja": "きのこのミックス、ピリ辛はちみつ",
+        "zh": "什锦蘑菇、辣味蜂蜜",
+        "ko": "모둠 버섯, 매콤한 꿀"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Code di scampi",
+       "price": "€ 20,00",
+       "allergens": [
+        2,
+        12
+       ],
+       "desc": {
+        "it": "zucchine, balsamico di lamponi",
+        "en": "courgettes, raspberry balsamic",
+        "de": "Scampischwänze auf Zucchini mit Himbeer-Balsamico",
+        "fr": "Queues de langoustines sur lit de courgettes au balsamique à la framboise",
+        "es": "calabacines, balsámico de frambuesa",
+        "ru": "кабачки, малиновый бальзамик",
+        "ja": "ズッキーニ、ラズベリーのバルサミコ",
+        "zh": "西葫芦、覆盆子香醋",
+        "ko": "애호박, 라즈베리 발사믹"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Mozzarella di bufala",
+       "price": "€ 17,00",
+       "allergens": [
+        7
+       ],
+       "desc": {
+        "it": "pomodorini ciliegini e olive",
+        "en": "cherry tomatoes and olives",
+        "de": "Büffelmozzarella mit Kirschtomaten und Oliven",
+        "fr": "Mozzarella di bufala aux tomates cerises et olives",
+        "es": "tomates cherry y aceitunas",
+        "ru": "томаты черри и оливки",
+        "ja": "ミニトマト、オリーブ",
+        "zh": "樱桃番茄、橄榄",
+        "ko": "방울토마토, 올리브"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Sauté di cozze e vongole",
+       "price": "€ 19,00",
+       "allergens": [
+        12,
+        14
+       ],
+       "desc": {
+        "it": "",
+        "en": "mussels and clams",
+        "de": "Sauté von Miesmuscheln und Venusmuscheln",
+        "fr": "Sauté de moules et palourdes",
+        "es": "mejillones y almejas",
+        "ru": "мидии и вонголе",
+        "ja": "ムール貝、あさり",
+        "zh": "青口贝、蛤蜊",
+        "ko": "홍합, 조개"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "pasta",
+     "title": {
+      "it": "Pasta artigianale fatta in casa",
+      "en": "Homemade artisan pasta",
+      "de": "Hausgemachte handwerkliche Pasta",
+      "fr": "Pâtes artisanales faites maison",
+      "es": "Pasta artesanal casera",
+      "ru": "Домашняя паста ручной работы",
+      "ja": "自家製手打ちパスタ",
+      "zh": "手工自制意面",
+      "ko": "수제 파스타"
+     },
+     "items": [
+      {
+       "name": "Gnocchetti di patate",
+       "price": "€ 19,00",
+       "allergens": [
+        1,
+        3
+       ],
+       "desc": {
+        "it": "pomodoro ciliegino",
+        "en": "cherry tomato",
+        "de": "Kartoffelgnocchi mit Kirschtomatensauce",
+        "fr": "Gnocchetti de pommes de terre à la sauce tomate cerise",
+        "es": "tomate cherry",
+        "ru": "томаты черри",
+        "ja": "ミニトマト",
+        "zh": "樱桃番茄",
+        "ko": "방울토마토"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Gnocchetti di patate",
+       "price": "€ 21,00",
+       "allergens": [
+        1,
+        3,
+        7,
+        9,
+        12
+       ],
+       "desc": {
+        "it": "ragù bolognese",
+        "en": "Bolognese ragù",
+        "de": "Kartoffelgnocchi mit Bolognese-Ragù",
+        "fr": "Gnocchetti de pommes de terre au ragù bolognaise",
+        "es": "ragú boloñés",
+        "ru": "болоньезе",
+        "ja": "ボロネーゼ",
+        "zh": "博洛尼亚肉酱",
+        "ko": "볼로네제 라구"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Maltagliati",
+       "price": "€ 24,00",
+       "allergens": [
+        1,
+        3,
+        9,
+        12
+       ],
+       "desc": {
+        "it": "guancia di vitello e verdure croccanti",
+        "en": "veal cheek, crisp vegetables",
+        "de": "Maltagliati mit Kalbsbacke und knackigem Gemüse",
+        "fr": "Maltagliati à la joue de veau et légumes croquants",
+        "es": "carrillera de ternera, verduras crujientes",
+        "ru": "телячьи щёчки, хрустящие овощи",
+        "ja": "仔牛のほほ肉、シャキシャキ野菜",
+        "zh": "小牛脸颊肉、脆爽蔬菜",
+        "ko": "송아지 볼살, 아삭한 채소"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Fettuccine d’anatra",
+       "price": "€ 24,00",
+       "allergens": [
+        1,
+        3,
+        9,
+        12
+       ],
+       "desc": {
+        "it": "anatra al coltello, erbe fini",
+        "en": "hand-cut duck, fine herbs",
+        "de": "Fettuccine mit handgeschnittenem Entenragù und feinen Kräutern",
+        "fr": "Fettuccine au canard coupé au couteau, parfumées aux fines herbes",
+        "es": "pato cortado a cuchillo, finas hierbas",
+        "ru": "утка, рубленная вручную, пряные травы",
+        "ja": "手切りの鴨肉、ハーブ",
+        "zh": "手切鸭肉、香草",
+        "ko": "손으로 썬 오리고기, 허브"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Spaghetti alla chitarra",
+       "price": "€ 22,00",
+       "allergens": [
+        1,
+        3,
+        14
+       ],
+       "desc": {
+        "it": "calamaretti, melanzane e menta",
+        "en": "baby squid, aubergine, mint",
+        "de": "Spaghetti alla chitarra mit kleinen Tintenfischen und Auberginen, mit Minze",
+        "fr": "Spaghetti alla chitarra aux petits calamars et aubergines, parfumés à la menthe",
+        "es": "chipirones, berenjena, menta",
+        "ru": "кальмарчики, баклажан, мята",
+        "ja": "小イカ、なす、ミント",
+        "zh": "小鱿鱼、茄子、薄荷",
+        "ko": "꼬마 오징어, 가지, 민트"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Spaghetti alla diavola",
+       "price": "€ 22,00",
+       "allergens": [
+        1,
+        3,
+        2
+       ],
+       "desc": {
+        "it": "gamberoni e peperoncino",
+        "en": "king prawns, chilli",
+        "de": "Spaghetti alla diavola – mit Riesengarnelen in scharfer Chilisauce",
+        "fr": "Spaghetti alla diavola – aux gambas, sauce pimentée",
+        "es": "langostinos, guindilla",
+        "ru": "королевские креветки, острый перец",
+        "ja": "大海老、唐辛子",
+        "zh": "大虾、辣椒",
+        "ko": "왕새우, 고추"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Tagliolini",
+       "price": "€ 22,00",
+       "allergens": [
+        1,
+        3,
+        2,
+        7
+       ],
+       "desc": {
+        "it": "zafferano e gamberoni",
+        "en": "saffron, king prawns",
+        "de": "Tagliolini mit Safransauce und Riesengarnelen",
+        "fr": "Tagliolini à la sauce au safran et gambas",
+        "es": "azafrán, langostinos",
+        "ru": "шафран, королевские креветки",
+        "ja": "サフラン、大海老",
+        "zh": "藏红花、大虾",
+        "ko": "사프란, 왕새우"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Ravioli",
+       "price": "€ 21,00",
+       "allergens": [
+        1,
+        3,
+        4,
+        7
+       ],
+       "desc": {
+        "it": "branzino, carciofi, salsa di zucchine",
+        "en": "sea bass, artichokes, courgette sauce",
+        "de": "Ravioli gefüllt mit Wolfsbarsch und Artischocken in Zucchinisauce",
+        "fr": "Ravioli farcis au bar et artichauts, sauce aux courgettes",
+        "es": "lubina, alcachofas, salsa de calabacín",
+        "ru": "сибас, артишоки, соус из кабачков",
+        "ja": "スズキ、アーティチョーク、ズッキーニソース",
+        "zh": "海鲈鱼、洋蓟、西葫芦酱",
+        "ko": "농어, 아티초크, 애호박 소스"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Spaghetti alla carbonara",
+       "price": "€ 26,00",
+       "allergens": [
+        1,
+        3,
+        7
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Spaghettoni alla busara",
+       "price": "€ 27,00",
+       "allergens": [
+        1,
+        3,
+        2,
+        12
+       ],
+       "desc": {
+        "it": "scampi",
+        "en": "langoustines",
+        "de": "Spaghettoni alla busara mit Scampi – venezianisch-istrische Sauce aus Tomate, Knoblauch und Weißwein",
+        "fr": "Spaghettoni alla busara aux langoustines – sauce vénéto-istrienne à la tomate, à l’ail et au vin blanc",
+        "es": "cigalas",
+        "ru": "лангустины",
+        "ja": "手長海老",
+        "zh": "海螯虾",
+        "ko": "랑구스틴"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Spaghetti neri",
+       "price": "€ 25,00",
+       "allergens": [
+        1,
+        3,
+        14
+       ],
+       "desc": {
+        "it": "seppia e pomodoro",
+        "en": "cuttlefish, tomato",
+        "de": "Schwarze Spaghetti mit Sepia und Tomatensauce",
+        "fr": "Spaghetti noirs à la seiche et sauce tomate",
+        "es": "sepia, tomate",
+        "ru": "каракатица, томат",
+        "ja": "コウイカ、トマト",
+        "zh": "墨鱼、番茄",
+        "ko": "갑오징어, 토마토"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Spaghetti alle vongole e bottarga",
+       "price": "€ 28,00",
+       "allergens": [
+        1,
+        3,
+        4,
+        12,
+        14
+       ],
+       "desc": {
+        "it": "",
+        "en": "clams and bottarga",
+        "de": "Spaghetti mit Venusmuscheln und Bottarga",
+        "fr": "Spaghetti aux palourdes et poutargue",
+        "es": "almejas y botarga",
+        "ru": "вонголе и боттарга",
+        "ja": "あさり、カラスミ",
+        "zh": "蛤蜊、鱼子干",
+        "ko": "조개, 보타르가"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Spaghettoni alla busara",
+       "price": "€ 28,00",
+       "allergens": [
+        1,
+        3,
+        2,
+        12
+       ],
+       "desc": {
+        "it": "astice",
+        "en": "lobster",
+        "de": "Spaghettoni alla busara mit Hummer",
+        "fr": "Spaghettoni alla busara au homard",
+        "es": "bogavante",
+        "ru": "омар",
+        "ja": "オマール海老",
+        "zh": "龙虾",
+        "ko": "랍스터"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Spaghetti allo scoglio",
+       "price": "€ 30,00",
+       "allergens": [
+        1,
+        3,
+        2,
+        12,
+        14
+       ],
+       "desc": {
+        "it": "frutti di mare",
+        "en": "mixed seafood",
+        "de": "Spaghetti allo scoglio mit Meeresfrüchten",
+        "fr": "Spaghetti allo scoglio aux fruits de mer",
+        "es": "marisco variado",
+        "ru": "ассорти из морепродуктов",
+        "ja": "魚介のミックス",
+        "zh": "什锦海鲜",
+        "ko": "모둠 해산물"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "sub": {
+        "it": "Maccheroncini",
+        "en": "Homemade maccheroncini",
+        "de": "Hausgemachte Maccheroncini",
+        "fr": "Maccheroncini maison",
+        "es": "Maccheroncini caseros",
+        "ru": "Домашние маккерончини",
+        "ja": "自家製マッケロンチーニ",
+        "zh": "自制小通心粉",
+        "ko": "수제 마케론치니"
+       }
+      },
+      {
+       "name": "Al pomodoro ciliegino",
+       "price": "€ 19,00",
+       "allergens": [
+        1,
+        3
+       ],
+       "desc": {
+        "it": "",
+        "en": "cherry tomato",
+        "de": "Mit Kirschtomatensauce",
+        "fr": "À la sauce tomate cerise",
+        "es": "tomate cherry",
+        "ru": "томаты черри",
+        "ja": "ミニトマト",
+        "zh": "樱桃番茄",
+        "ko": "방울토마토"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Al ragù bolognese",
+       "price": "€ 21,00",
+       "allergens": [
+        1,
+        3,
+        7,
+        9,
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "Bolognese ragù",
+        "de": "Mit Bolognese-Ragù",
+        "fr": "Au ragù bolognaise",
+        "es": "ragú boloñés",
+        "ru": "болоньезе",
+        "ja": "ボロネーゼ",
+        "zh": "博洛尼亚肉酱",
+        "ko": "볼로네제 라구"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Alle cozze e vongole",
+       "price": "€ 25,00",
+       "allergens": [
+        1,
+        3,
+        12,
+        14
+       ],
+       "desc": {
+        "it": "",
+        "en": "mussels and clams",
+        "de": "Mit Miesmuscheln und Venusmuscheln",
+        "fr": "Aux moules et palourdes",
+        "es": "mejillones y almejas",
+        "ru": "мидии и вонголе",
+        "ja": "ムール貝、あさり",
+        "zh": "青口贝、蛤蜊",
+        "ko": "홍합, 조개"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "zuppe",
+     "title": {
+      "it": "Zuppe",
+      "en": "Soups",
+      "de": "Soups",
+      "fr": "Soups",
+      "es": "Sopas",
+      "ru": "Супы",
+      "ja": "スープ",
+      "zh": "汤",
+      "ko": "수프"
+     },
+     "items": [
+      {
+       "name": "Zuppa di pesce",
+       "price": "€ 35,00",
+       "allergens": [
+        1,
+        2,
+        4,
+        9,
+        12,
+        14
+       ],
+       "desc": {
+        "it": "",
+        "en": "fish soup",
+        "de": "Fischsuppe",
+        "fr": "Soupe de poisson",
+        "es": "sopa de pescado",
+        "ru": "рыбный суп",
+        "ja": "魚のスープ",
+        "zh": "鱼汤",
+        "ko": "생선 수프"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Zuppa di verdure",
+       "price": "€ 25,00",
+       "allergens": [
+        1,
+        9
+       ],
+       "desc": {
+        "it": "",
+        "en": "vegetable soup",
+        "de": "Gemüsesuppe",
+        "fr": "Soupe de légumes",
+        "es": "sopa de verduras",
+        "ru": "овощной суп",
+        "ja": "野菜スープ",
+        "zh": "蔬菜汤",
+        "ko": "채소 수프"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "secondi",
+     "title": {
+      "it": "Secondi piatti",
+      "en": "Main courses",
+      "de": "Hauptgerichte",
+      "fr": "Plats principaux",
+      "es": "Segundos platos",
+      "ru": "Вторые блюда",
+      "ja": "メイン料理",
+      "zh": "主菜",
+      "ko": "메인 요리"
+     },
+     "items": [
+      {
+       "name": "Carré d’agnello",
+       "price": "€ 27,00",
+       "allergens": [
+        1,
+        3,
+        10,
+        12
+       ],
+       "desc": {
+        "it": "panatura alla senape, salsa al Barolo",
+        "en": "mustard crust, Barolo sauce",
+        "de": "Lammkarree in leichter Senfkruste, Barolo-Sauce",
+        "fr": "Carré d’agneau en légère panure parfumée à la moutarde, sauce au Barolo",
+        "es": "costra de mostaza, salsa al Barolo",
+        "ru": "горчичная корочка, соус из бароло",
+        "ja": "マスタードの衣、バローロソース",
+        "zh": "芥末脆皮、巴罗洛红酒酱",
+        "ko": "머스터드 크러스트, 바롤로 소스"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Filetto di branzino",
+       "price": "€ 26,00",
+       "allergens": [
+        4
+       ],
+       "desc": {
+        "it": "verdurine al forno",
+        "en": "oven-roasted vegetables",
+        "de": "Wolfsbarschfilet mit Ofengemüse",
+        "fr": "Filet de bar et petits légumes au four",
+        "es": "verduras al horno",
+        "ru": "запечённые овощи",
+        "ja": "野菜のオーブン焼き",
+        "zh": "烤蔬菜",
+        "ko": "오븐 구운 채소"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Filetto di manzo grigliato",
+       "price": "€ 26,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "grilled beef fillet",
+        "de": "Gegrilltes Rinderfilet",
+        "fr": "Filet de bœuf grillé",
+        "es": "solomillo de ternera a la parrilla",
+        "ru": "говяжья вырезка на гриле",
+        "ja": "牛ヒレ肉のグリル",
+        "zh": "烤牛里脊",
+        "ko": "그릴 소고기 안심"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Tonno scottato",
+       "price": "€ 27,00",
+       "allergens": [
+        4,
+        8
+       ],
+       "desc": {
+        "it": "crosta di pistacchio",
+        "en": "pistachio crust",
+        "de": "Gebratener Thunfisch in Pistazienkruste",
+        "fr": "Thon snacké en croûte de pistache",
+        "es": "costra de pistacho",
+        "ru": "фисташковая корочка",
+        "ja": "ピスタチオの衣",
+        "zh": "开心果脆皮",
+        "ko": "피스타치오 크러스트"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Filetto di manzo",
+       "price": "€ 27,00",
+       "allergens": [
+        7,
+        12
+       ],
+       "desc": {
+        "it": "salsa al vino rosso",
+        "en": "red wine sauce",
+        "de": "Rinderfilet in Rotweinsauce",
+        "fr": "Filet de bœuf sauce au vin rouge",
+        "es": "salsa de vino tinto",
+        "ru": "соус из красного вина",
+        "ja": "赤ワインソース",
+        "zh": "红酒酱",
+        "ko": "레드와인 소스"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Filetto di manzo al pepe verde",
+       "price": "€ 29,00",
+       "allergens": [
+        7,
+        12
+       ],
+       "desc": {
+        "it": "salsa al pepe verde",
+        "en": "green peppercorn sauce",
+        "de": "Rinderfilet mit grünem Pfeffer",
+        "fr": "Filet de bœuf au poivre vert",
+        "es": "salsa de pimienta verde",
+        "ru": "соус из зелёного перца",
+        "ja": "グリーンペッパーソース",
+        "zh": "青胡椒酱",
+        "ko": "그린 페퍼 소스"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "contorni",
+     "title": {
+      "it": "Contorni",
+      "en": "Side dishes",
+      "de": "Beilagen",
+      "fr": "Accompagnements",
+      "es": "Guarniciones",
+      "ru": "Гарниры",
+      "ja": "付け合わせ",
+      "zh": "配菜",
+      "ko": "사이드"
+     },
+     "items": [
+      {
+       "name": "Insalata verde",
+       "price": "€ 8,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "green salad",
+        "de": "Grüner Salat",
+        "fr": "Salade verte",
+        "es": "ensalada verde",
+        "ru": "зелёный салат",
+        "ja": "グリーンサラダ",
+        "zh": "青菜沙拉",
+        "ko": "그린 샐러드"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Insalata mista",
+       "price": "€ 8,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "mixed salad",
+        "de": "Gemischter Salat",
+        "fr": "Salade mixte",
+        "es": "ensalada mixta",
+        "ru": "овощной салат",
+        "ja": "ミックスサラダ",
+        "zh": "什锦沙拉",
+        "ko": "믹스 샐러드"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Patate al forno con rosmarino",
+       "price": "€ 8,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "roast potatoes, rosemary",
+        "de": "Ofenkartoffeln mit Rosmarin",
+        "fr": "Pommes de terre au four au romarin",
+        "es": "patatas al horno, romero",
+        "ru": "запечённый картофель, розмарин",
+        "ja": "ローストポテト、ローズマリー",
+        "zh": "烤土豆、迷迭香",
+        "ko": "구운 감자, 로즈메리"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Verdure miste di stagione",
+       "price": "€ 8,00",
+       "allergens": [
+        9
+       ],
+       "desc": {
+        "it": "",
+        "en": "seasonal mixed vegetables",
+        "de": "Gemischtes Gemüse der Saison",
+        "fr": "Légumes de saison",
+        "es": "verduras de temporada",
+        "ru": "сезонные овощи",
+        "ja": "季節の野菜",
+        "zh": "时令蔬菜",
+        "ko": "제철 채소"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "dolci",
+     "title": {
+      "it": "Dolci",
+      "en": "Desserts",
+      "de": "Desserts",
+      "fr": "Desserts",
+      "es": "Postres",
+      "ru": "Десерты",
+      "ja": "デザート",
+      "zh": "甜点",
+      "ko": "디저트"
+     },
+     "items": [
+      {
+       "name": "Tartufo bianco",
+       "price": "€ 9,00",
+       "allergens": [
+        3,
+        7
+       ],
+       "desc": {
+        "it": "tartufo gelato",
+        "en": "ice-cream truffle",
+        "de": "Tartufo bianco – Eistrüffel",
+        "fr": "Tartufo bianco – truffe glacée",
+        "es": "trufa helada",
+        "ru": "мороженое-трюфель",
+        "ja": "トリュフ型アイスクリーム",
+        "zh": "松露冰淇淋",
+        "ko": "트러플 아이스크림"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Tartufo nero",
+       "price": "€ 9,00",
+       "allergens": [
+        3,
+        7
+       ],
+       "desc": {
+        "it": "tartufo gelato",
+        "en": "ice-cream truffle",
+        "de": "Tartufo nero – Eistrüffel",
+        "fr": "Tartufo nero – truffe glacée",
+        "es": "trufa helada",
+        "ru": "мороженое-трюфель",
+        "ja": "トリュフ型アイスクリーム",
+        "zh": "松露冰淇淋",
+        "ko": "트러플 아이스크림"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Tiramisù",
+       "price": "€ 9,00",
+       "allergens": [
+        1,
+        3,
+        7
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Panna cotta ai frutti di bosco",
+       "price": "€ 9,00",
+       "allergens": [
+        7
+       ],
+       "desc": {
+        "it": "",
+        "en": "mixed berries",
+        "de": "Panna cotta mit Waldbeeren",
+        "fr": "Panna cotta aux fruits des bois",
+        "es": "frutos del bosque",
+        "ru": "лесные ягоды",
+        "ja": "ミックスベリー",
+        "zh": "什锦莓果",
+        "ko": "베리"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Mousse al cioccolato fondente",
+       "price": "€ 9,00",
+       "allergens": [
+        3,
+        6,
+        7
+       ],
+       "desc": {
+        "it": "cuore di meringa",
+        "en": "meringue centre",
+        "de": "Mousse von Zartbitterschokolade mit Baiserkern",
+        "fr": "Mousse au chocolat noir, cœur meringué",
+        "es": "corazón de merengue",
+        "ru": "с безе внутри",
+        "ja": "中にメレンゲ",
+        "zh": "蛋白霜夹心",
+        "ko": "머랭 속"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Dessert dello chef",
+       "price": "€ 10,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "chef’s dessert",
+        "de": "Dessert des Küchenchefs",
+        "fr": "Dessert du chef",
+        "es": "postre del chef",
+        "ru": "десерт от шефа",
+        "ja": "シェフのデザート",
+        "zh": "主厨甜点",
+        "ko": "셰프의 디저트"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Vino dolce con biscottini buranelli",
+       "price": "€ 12,00",
+       "allergens": [
+        1,
+        3,
+        7,
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "sweet wine, Burano biscuits",
+        "de": "Süßwein mit Buranelli-Keksen",
+        "fr": "Vin doux et biscuits buranelli",
+        "es": "vino dulce, galletas de Burano",
+        "ru": "десертное вино, печенье из Бурано",
+        "ja": "甘口ワイン、ブラーノ島のビスケット",
+        "zh": "甜葡萄酒、布拉诺饼干",
+        "ko": "디저트 와인, 부라노 비스킷"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Selezione di formaggi misti",
+       "price": "€ 24,00",
+       "allergens": [
+        7
+       ],
+       "desc": {
+        "it": "",
+        "en": "selection of cheeses",
+        "de": "Auswahl gemischter Käse",
+        "fr": "Sélection de fromages",
+        "es": "selección de quesos",
+        "ru": "сырная тарелка",
+        "ja": "チーズの盛り合わせ",
+        "zh": "精选奶酪",
+        "ko": "치즈 셀렉션"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pizza",
+   "name": "Pizza",
+   "sections": [
+    {
+     "id": "pizze-della-casa",
+     "title": {
+      "it": "Le pizze della casa",
+      "en": "House specials",
+      "de": "Pizzen des Hauses",
+      "fr": "Les pizzas de la maison",
+      "es": "Pizzas de la casa",
+      "ru": "Фирменные пиццы",
+      "ja": "店の特製ピッツァ",
+      "zh": "招牌披萨",
+      "ko": "하우스 피자"
+     },
+     "items": [
+      {
+       "name": "Schiacciata 6342",
+       "price": "€ 18,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "mozzarella di bufala, pomodorini ciliegini, rucola e crudo di Parma stagionato 20 mesi",
+        "en": "buffalo mozzarella, cherry tomatoes, rocket and Parma ham aged 20 months",
+        "de": "Büffelmozzarella, Kirschtomaten, Rucola und 20 Monate gereifter Parmaschinken",
+        "fr": "mozzarella di bufala, tomates cerises, roquette et jambon cru de Parme affiné 20 mois",
+        "es": "mozzarella de búfala, tomates cherry, rúcula y jamón de Parma curado 20 meses",
+        "ru": "моцарелла из молока буйволицы, томаты черри, руккола и пармская ветчина 20 месяцев выдержки",
+        "ja": "水牛のモッツァレラ、ミニトマト、ルッコラ、20か月熟成パルマハム",
+        "zh": "水牛马苏里拉、樱桃番茄、芝麻菜、20个月帕尔马火腿",
+        "ko": "부팔라 모차렐라, 방울토마토, 루콜라, 20개월 숙성 파르마 햄"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "A le Tole",
+       "price": "€ 19,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, salame, prosciutto di cinghiale, bufala e olio tartufato",
+        "en": "tomato sauce, mozzarella, salami, wild boar ham, buffalo mozzarella and truffle oil",
+        "de": "Tomatensauce, Mozzarella, Salami, Wildschweinschinken, Büffelmozzarella und Trüffelöl",
+        "fr": "sauce tomate, mozzarella, salami, jambon de sanglier, mozzarella di bufala et huile truffée",
+        "es": "tomate, mozzarella, salami, jamón de jabalí, mozzarella de búfala y aceite de trufa",
+        "ru": "томатный соус, моцарелла, салями, ветчина из кабана, моцарелла из молока буйволицы и трюфельное масло",
+        "ja": "トマトソース、モッツァレラ、サラミ、イノシシのハム、水牛のモッツァレラ、トリュフオイル",
+        "zh": "番茄酱、马苏里拉、萨拉米、野猪火腿、水牛马苏里拉、松露油",
+        "ko": "토마토소스, 모차렐라, 살라미, 멧돼지 햄, 부팔라 모차렐라, 트러플 오일"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "pizza",
+     "title": {
+      "it": "Pizza",
+      "en": "Pizzas",
+      "de": "Pizza",
+      "fr": "Pizzas",
+      "es": "Pizzas",
+      "ru": "Пиццы",
+      "ja": "ピッツァ",
+      "zh": "披萨",
+      "ko": "피자"
+     },
+     "items": [
+      {
+       "name": "Margherita",
+       "price": "€ 12,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro e mozzarella",
+        "en": "tomato sauce and mozzarella",
+        "de": "Tomatensauce und Mozzarella",
+        "fr": "sauce tomate et mozzarella",
+        "es": "tomate y mozzarella",
+        "ru": "томатный соус и моцарелла",
+        "ja": "トマトソース、モッツァレラ",
+        "zh": "番茄酱、马苏里拉",
+        "ko": "토마토소스, 모차렐라"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Diavola",
+       "price": "€ 14,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella e salamino piccante",
+        "en": "tomato sauce, mozzarella and spicy salami",
+        "de": "Tomatensauce, Mozzarella und scharfe Salami",
+        "fr": "sauce tomate, mozzarella et salami piquant",
+        "es": "tomate, mozzarella y salami picante",
+        "ru": "томатный соус, моцарелла и острая салями",
+        "ja": "トマトソース、モッツァレラ、辛口サラミ",
+        "zh": "番茄酱、马苏里拉、辣萨拉米",
+        "ko": "토마토소스, 모차렐라, 매운 살라미"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Chips",
+       "price": "€ 13,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, würstel e patate fritte",
+        "en": "tomato sauce, mozzarella, frankfurters and French fries",
+        "de": "Tomatensauce, Mozzarella, Würstchen und Pommes frites",
+        "fr": "sauce tomate, mozzarella, saucisses de Francfort et frites",
+        "es": "tomate, mozzarella, salchichas y patatas fritas",
+        "ru": "томатный соус, моцарелла, сосиски и картофель фри",
+        "ja": "トマトソース、モッツァレラ、ソーセージ、フライドポテト",
+        "zh": "番茄酱、马苏里拉、法兰克福香肠、薯条",
+        "ko": "토마토소스, 모차렐라, 프랑크소시지, 감자튀김"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Romana",
+       "price": "€ 12,00",
+       "allergens": [
+        1,
+        4,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, acciughe, capperi e olive",
+        "en": "tomato sauce, mozzarella, anchovies, capers and olives",
+        "de": "Tomatensauce, Mozzarella, Sardellen, Kapern und Oliven",
+        "fr": "sauce tomate, mozzarella, anchois, câpres et olives",
+        "es": "tomate, mozzarella, anchoas, alcaparras y aceitunas",
+        "ru": "томатный соус, моцарелла, анчоусы, каперсы и оливки",
+        "ja": "トマトソース、モッツァレラ、アンチョビ、ケッパー、オリーブ",
+        "zh": "番茄酱、马苏里拉、凤尾鱼、刺山柑、橄榄",
+        "ko": "토마토소스, 모차렐라, 앤초비, 케이퍼, 올리브"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Prosciutto e funghi",
+       "price": "€ 14,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, prosciutto di Praga e funghi champignon",
+        "en": "tomato sauce, mozzarella, Prague ham and button mushrooms",
+        "de": "Tomatensauce, Mozzarella, Prager Schinken und Champignons",
+        "fr": "sauce tomate, mozzarella, jambon de Prague et champignons de Paris",
+        "es": "tomate, mozzarella, jamón de Praga y champiñones",
+        "ru": "томатный соус, моцарелла, пражская ветчина и шампиньоны",
+        "ja": "トマトソース、モッツァレラ、プラハハム、マッシュルーム",
+        "zh": "番茄酱、马苏里拉、布拉格火腿、口蘑",
+        "ko": "토마토소스, 모차렐라, 프라하 햄, 양송이"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Forte",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, salame piccante con aglio e melanzane",
+        "en": "tomato sauce, mozzarella, spicy garlic salami and aubergine",
+        "de": "Tomatensauce, Mozzarella, scharfe Knoblauchsalami und Auberginen",
+        "fr": "sauce tomate, mozzarella, salami piquant à l’ail et aubergines",
+        "es": "tomate, mozzarella, salami picante al ajo y berenjena",
+        "ru": "томатный соус, моцарелла, острая чесночная салями и баклажан",
+        "ja": "トマトソース、モッツァレラ、ガーリック辛口サラミ、なす",
+        "zh": "番茄酱、马苏里拉、蒜味辣萨拉米、茄子",
+        "ko": "토마토소스, 모차렐라, 마늘 매운 살라미, 가지"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Fantastica",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, mozzarella di bufala, pomodorini ciliegini e olive",
+        "en": "tomato sauce, mozzarella, buffalo mozzarella, cherry tomatoes and olives",
+        "de": "Tomatensauce, Mozzarella, Büffelmozzarella, Kirschtomaten und Oliven",
+        "fr": "sauce tomate, mozzarella, mozzarella di bufala, tomates cerises et olives",
+        "es": "tomate, mozzarella, mozzarella de búfala, tomates cherry y aceitunas",
+        "ru": "томатный соус, моцарелла, моцарелла из молока буйволицы, томаты черри и оливки",
+        "ja": "トマトソース、モッツァレラ、水牛のモッツァレラ、ミニトマト、オリーブ",
+        "zh": "番茄酱、马苏里拉、水牛马苏里拉、樱桃番茄、橄榄",
+        "ko": "토마토소스, 모차렐라, 부팔라 모차렐라, 방울토마토, 올리브"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Parma",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, prosciutto crudo di Parma stagionato 20 mesi",
+        "en": "tomato sauce, mozzarella and Parma ham aged 20 months",
+        "de": "Tomatensauce, Mozzarella, 20 Monate gereifter Parmaschinken",
+        "fr": "sauce tomate, mozzarella, jambon cru de Parme affiné 20 mois",
+        "es": "tomate, mozzarella y jamón de Parma curado 20 meses",
+        "ru": "томатный соус, моцарелла и пармская ветчина 20 месяцев выдержки",
+        "ja": "トマトソース、モッツァレラ、20か月熟成パルマハム",
+        "zh": "番茄酱、马苏里拉、20个月帕尔马火腿",
+        "ko": "토마토소스, 모차렐라, 20개월 숙성 파르마 햄"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Tonno e cipolle",
+       "price": "€ 14,00",
+       "allergens": [
+        1,
+        4,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, tonno e cipolle",
+        "en": "tomato sauce, mozzarella, tuna and onions",
+        "de": "Tomatensauce, Mozzarella, Thunfisch und Zwiebeln",
+        "fr": "sauce tomate, mozzarella, thon et oignons",
+        "es": "tomate, mozzarella, atún y cebolla",
+        "ru": "томатный соус, моцарелла, тунец и лук",
+        "ja": "トマトソース、モッツァレラ、ツナ、玉ねぎ",
+        "zh": "番茄酱、马苏里拉、金枪鱼、洋葱",
+        "ko": "토마토소스, 모차렐라, 참치, 양파"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Vegetariana",
+       "price": "€ 13,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, peperoni, melanzane e zucchine",
+        "en": "tomato sauce, mozzarella, peppers, aubergine and courgettes",
+        "de": "Tomatensauce, Mozzarella, Paprika, Auberginen und Zucchini",
+        "fr": "sauce tomate, mozzarella, poivrons, aubergines et courgettes",
+        "es": "tomate, mozzarella, pimientos, berenjena y calabacines",
+        "ru": "томатный соус, моцарелла, перец, баклажан и кабачки",
+        "ja": "トマトソース、モッツァレラ、パプリカ、なす、ズッキーニ",
+        "zh": "番茄酱、马苏里拉、甜椒、茄子、西葫芦",
+        "ko": "토마토소스, 모차렐라, 파프리카, 가지, 애호박"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Zingara",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, pancetta affumicata, peperoni e cipolla",
+        "en": "tomato sauce, mozzarella, smoked pancetta, peppers and onion",
+        "de": "Tomatensauce, Mozzarella, geräucherter Speck (Pancetta), Paprika und Zwiebel",
+        "fr": "sauce tomate, mozzarella, pancetta fumée, poivrons et oignon",
+        "es": "tomate, mozzarella, panceta ahumada, pimientos y cebolla",
+        "ru": "томатный соус, моцарелла, копчёная панчетта, перец и лук",
+        "ja": "トマトソース、モッツァレラ、スモークパンチェッタ、パプリカ、玉ねぎ",
+        "zh": "番茄酱、马苏里拉、烟熏意式培根、甜椒、洋葱",
+        "ko": "토마토소스, 모차렐라, 훈제 판체타, 파프리카, 양파"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Treviso",
+       "price": "€ 14,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, radicchio e salsiccia",
+        "en": "tomato sauce, mozzarella, radicchio and sausage",
+        "de": "Tomatensauce, Mozzarella, Radicchio und Salsiccia",
+        "fr": "sauce tomate, mozzarella, radicchio et saucisse",
+        "es": "tomate, mozzarella, radicchio y salchicha",
+        "ru": "томатный соус, моцарелла, радиккьо и колбаски",
+        "ja": "トマトソース、モッツァレラ、ラディッキオ、サルシッチャ",
+        "zh": "番茄酱、马苏里拉、菊苣、香肠",
+        "ko": "토마토소스, 모차렐라, 라디키오, 소시지"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Mezza luna",
+       "price": "€ 13,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, rucola e formaggio brie",
+        "en": "tomato sauce, mozzarella, rocket and brie",
+        "de": "Tomatensauce, Mozzarella, Rucola und Brie",
+        "fr": "sauce tomate, mozzarella, roquette et brie",
+        "es": "tomate, mozzarella, rúcula y brie",
+        "ru": "томатный соус, моцарелла, руккола и бри",
+        "ja": "トマトソース、モッツァレラ、ルッコラ、ブリー",
+        "zh": "番茄酱、马苏里拉、芝麻菜、布里奶酪",
+        "ko": "토마토소스, 모차렐라, 루콜라, 브리"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "La preferita",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        3,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, salsiccia, uova e grana stagionato 16 mesi",
+        "en": "tomato sauce, mozzarella, sausage, egg and Grana cheese aged 16 months",
+        "de": "Tomatensauce, Mozzarella, Salsiccia, Ei und 16 Monate gereifter Grana",
+        "fr": "sauce tomate, mozzarella, saucisse, œufs et grana affiné 16 mois",
+        "es": "tomate, mozzarella, salchicha, huevo y queso Grana curado 16 meses",
+        "ru": "томатный соус, моцарелла, колбаски, яйцо и сыр Грана 16 месяцев выдержки",
+        "ja": "トマトソース、モッツァレラ、サルシッチャ、卵、16か月熟成グラナチーズ",
+        "zh": "番茄酱、马苏里拉、香肠、鸡蛋、16个月格拉纳奶酪",
+        "ko": "토마토소스, 모차렐라, 소시지, 달걀, 16개월 숙성 그라나 치즈"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Quattro stagioni",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, prosciutto di Praga, funghi, carciofini e olive",
+        "en": "tomato sauce, mozzarella, Prague ham, mushrooms, baby artichokes and olives",
+        "de": "Tomatensauce, Mozzarella, Prager Schinken, Pilze, kleine Artischocken und Oliven",
+        "fr": "sauce tomate, mozzarella, jambon de Prague, champignons, petits artichauts et olives",
+        "es": "tomate, mozzarella, jamón de Praga, setas, alcachofitas y aceitunas",
+        "ru": "томатный соус, моцарелла, пражская ветчина, грибы, маленькие артишоки и оливки",
+        "ja": "トマトソース、モッツァレラ、プラハハム、きのこ、小さなアーティチョーク、オリーブ",
+        "zh": "番茄酱、马苏里拉、布拉格火腿、蘑菇、小洋蓟、橄榄",
+        "ko": "토마토소스, 모차렐라, 프라하 햄, 버섯, 작은 아티초크, 올리브"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Carbonara",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        3,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, pancetta affumicata, uova e grana stagionato 16 mesi",
+        "en": "tomato sauce, mozzarella, smoked pancetta, egg and Grana cheese aged 16 months",
+        "de": "Tomatensauce, Mozzarella, geräucherte Pancetta, Ei und 16 Monate gereifter Grana",
+        "fr": "sauce tomate, mozzarella, pancetta fumée, œufs et grana affiné 16 mois",
+        "es": "tomate, mozzarella, panceta ahumada, huevo y queso Grana curado 16 meses",
+        "ru": "томатный соус, моцарелла, копчёная панчетта, яйцо и сыр Грана 16 месяцев выдержки",
+        "ja": "トマトソース、モッツァレラ、スモークパンチェッタ、卵、16か月熟成グラナチーズ",
+        "zh": "番茄酱、马苏里拉、烟熏意式培根、鸡蛋、16个月格拉纳奶酪",
+        "ko": "토마토소스, 모차렐라, 훈제 판체타, 달걀, 16개월 숙성 그라나 치즈"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Saporita",
+       "price": "€ 14,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, funghi misti e speck stagionato 6 mesi",
+        "en": "tomato sauce, mozzarella, mixed mushrooms and speck aged 6 months",
+        "de": "Tomatensauce, Mozzarella, gemischte Pilze und 6 Monate gereifter Speck",
+        "fr": "sauce tomate, mozzarella, champignons mélangés et speck affiné 6 mois",
+        "es": "tomate, mozzarella, setas variadas y speck curado 6 meses",
+        "ru": "томатный соус, моцарелла, грибное ассорти и шпек 6 месяцев выдержки",
+        "ja": "トマトソース、モッツァレラ、きのこのミックス、6か月熟成スペック",
+        "zh": "番茄酱、马苏里拉、什锦蘑菇、6个月熏火腿",
+        "ko": "토마토소스, 모차렐라, 모둠 버섯, 6개월 숙성 스펙"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Rialto",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, gorgonzola dolce e speck stagionato 6 mesi",
+        "en": "tomato sauce, mozzarella, mild gorgonzola and speck aged 6 months",
+        "de": "Tomatensauce, Mozzarella, milder Gorgonzola und 6 Monate gereifter Speck",
+        "fr": "sauce tomate, mozzarella, gorgonzola doux et speck affiné 6 mois",
+        "es": "tomate, mozzarella, gorgonzola dulce y speck curado 6 meses",
+        "ru": "томатный соус, моцарелла, мягкая горгонзола и шпек 6 месяцев выдержки",
+        "ja": "トマトソース、モッツァレラ、マイルドなゴルゴンゾーラ、6か月熟成スペック",
+        "zh": "番茄酱、马苏里拉、甜味戈贡佐拉、6个月熏火腿",
+        "ko": "토마토소스, 모차렐라, 순한 고르곤졸라, 6개월 숙성 스펙"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "San Marco",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, rucola, brie e speck stagionato 16 mesi",
+        "en": "tomato sauce, mozzarella, rocket, brie and speck aged 16 months",
+        "de": "Tomatensauce, Mozzarella, Rucola, Brie und 16 Monate gereifter Speck",
+        "fr": "sauce tomate, mozzarella, roquette, brie et speck affiné 16 mois",
+        "es": "tomate, mozzarella, rúcula, brie y speck curado 16 meses",
+        "ru": "томатный соус, моцарелла, руккола, бри и шпек 16 месяцев выдержки",
+        "ja": "トマトソース、モッツァレラ、ルッコラ、ブリー、16か月熟成スペック",
+        "zh": "番茄酱、马苏里拉、芝麻菜、布里奶酪、16个月熏火腿",
+        "ko": "토마토소스, 모차렐라, 루콜라, 브리, 16개월 숙성 스펙"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Italia",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, rucola, pomodorini ciliegini e mozzarella di bufala",
+        "en": "tomato sauce, mozzarella, rocket, cherry tomatoes and buffalo mozzarella",
+        "de": "Tomatensauce, Mozzarella, Rucola, Kirschtomaten und Büffelmozzarella",
+        "fr": "sauce tomate, mozzarella, roquette, tomates cerises et mozzarella di bufala",
+        "es": "tomate, mozzarella, rúcula, tomates cherry y mozzarella de búfala",
+        "ru": "томатный соус, моцарелла, руккола, томаты черри и моцарелла из молока буйволицы",
+        "ja": "トマトソース、モッツァレラ、ルッコラ、ミニトマト、水牛のモッツァレラ",
+        "zh": "番茄酱、马苏里拉、芝麻菜、樱桃番茄、水牛马苏里拉",
+        "ko": "토마토소스, 모차렐라, 루콜라, 방울토마토, 부팔라 모차렐라"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Quattro formaggi",
+       "price": "€ 15,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella e formaggi misti",
+        "en": "tomato sauce, mozzarella and mixed cheeses",
+        "de": "Tomatensauce, Mozzarella und gemischte Käsesorten",
+        "fr": "sauce tomate, mozzarella et fromages variés",
+        "es": "tomate, mozzarella y quesos variados",
+        "ru": "томатный соус, моцарелла и ассорти сыров",
+        "ja": "トマトソース、モッツァレラ、チーズのミックス",
+        "zh": "番茄酱、马苏里拉、什锦奶酪",
+        "ko": "토마토소스, 모차렐라, 모둠 치즈"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Valtellina",
+       "price": "€ 16,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, rucola, bresaola e grana stagionato 16 mesi",
+        "en": "tomato sauce, mozzarella, rocket, bresaola and Grana cheese aged 16 months",
+        "de": "Tomatensauce, Mozzarella, Rucola, Bresaola und 16 Monate gereifter Grana",
+        "fr": "sauce tomate, mozzarella, roquette, bresaola et grana affiné 16 mois",
+        "es": "tomate, mozzarella, rúcula, bresaola y queso Grana curado 16 meses",
+        "ru": "томатный соус, моцарелла, руккола, брезаола и сыр Грана 16 месяцев выдержки",
+        "ja": "トマトソース、モッツァレラ、ルッコラ、ブレザオラ、16か月熟成グラナチーズ",
+        "zh": "番茄酱、马苏里拉、芝麻菜、风干牛肉、16个月格拉纳奶酪",
+        "ko": "토마토소스, 모차렐라, 루콜라, 브레사올라, 16개월 숙성 그라나 치즈"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Mediterranea",
+       "price": "€ 18,00",
+       "allergens": [
+        1,
+        2,
+        7,
+        14
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, cozze, gamberetti e vongole veraci",
+        "en": "tomato sauce, mozzarella, mussels, shrimps and clams",
+        "de": "Tomatensauce, Mozzarella, Miesmuscheln, Garnelen und Venusmuscheln",
+        "fr": "sauce tomate, mozzarella, moules, crevettes et palourdes",
+        "es": "tomate, mozzarella, mejillones, gambas y almejas",
+        "ru": "томатный соус, моцарелла, мидии, креветки и вонголе",
+        "ja": "トマトソース、モッツァレラ、ムール貝、小海老、あさり",
+        "zh": "番茄酱、马苏里拉、青口贝、虾、蛤蜊",
+        "ko": "토마토소스, 모차렐라, 홍합, 새우, 조개"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "calzoni",
+     "title": {
+      "it": "Calzoni",
+      "en": "Folded pizzas",
+      "de": "Calzoni",
+      "fr": "Calzones",
+      "es": "Calzones",
+      "ru": "Кальцоне",
+      "ja": "カルツォーネ",
+      "zh": "意式馅饼（卡尔佐内）",
+      "ko": "칼초네"
+     },
+     "items": [
+      {
+       "name": "Braccio di ferro",
+       "price": "€ 16,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, ricotta, spinaci e parmigiano a scaglie stagionato 16 mesi",
+        "en": "tomato sauce, mozzarella, ricotta, spinach and shaved Parmesan aged 16 months",
+        "de": "Tomatensauce, Mozzarella, Ricotta, Spinat und 16 Monate gereifter Parmesan in Spänen",
+        "fr": "sauce tomate, mozzarella, ricotta, épinards et copeaux de parmesan affiné 16 mois",
+        "es": "tomate, mozzarella, ricotta, espinacas y lascas de parmesano curado 16 meses",
+        "ru": "томатный соус, моцарелла, рикотта, шпинат и стружка пармезана 16 месяцев выдержки",
+        "ja": "トマトソース、モッツァレラ、リコッタ、ほうれん草、16か月熟成パルミジャーノの薄切り",
+        "zh": "番茄酱、马苏里拉、里科塔奶酪、菠菜、16个月帕玛森奶酪片",
+        "ko": "토마토소스, 모차렐라, 리코타, 시금치, 16개월 숙성 파르메산 슬라이스"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Classico",
+       "price": "€ 16,00",
+       "allergens": [
+        1,
+        7
+       ],
+       "desc": {
+        "it": "salsa di pomodoro, mozzarella, prosciutto di Praga e funghi champignon",
+        "en": "tomato sauce, mozzarella, Prague ham and button mushrooms",
+        "de": "Tomatensauce, Mozzarella, Prager Schinken und Champignons",
+        "fr": "sauce tomate, mozzarella, jambon de Prague et champignons de Paris",
+        "es": "tomate, mozzarella, jamón de Praga y champiñones",
+        "ru": "томатный соус, моцарелла, пражская ветчина и шампиньоны",
+        "ja": "トマトソース、モッツァレラ、プラハハム、マッシュルーム",
+        "zh": "番茄酱、马苏里拉、布拉格火腿、口蘑",
+        "ko": "토마토소스, 모차렐라, 프라하 햄, 양송이"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bar",
+   "name": "Bar",
+   "sections": [
+    {
+     "id": "aperitivi",
+     "title": {
+      "it": "Aperitivi",
+      "en": "Aperitifs",
+      "de": "Aperitifs",
+      "fr": "Apéritifs",
+      "es": "Aperitivos",
+      "ru": "Аперитивы",
+      "ja": "アペリティフ",
+      "zh": "开胃酒",
+      "ko": "아페리티프"
+     },
+     "items": [
+      {
+       "name": "Gingerino",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "analcolico",
+        "en": "alcohol-free",
+        "de": "Alkoholfrei",
+        "fr": "Sans alcool",
+        "es": "sin alcohol",
+        "ru": "безалкогольный",
+        "ja": "ノンアルコール",
+        "zh": "无酒精",
+        "ko": "무알코올"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Crodino",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "analcolico",
+        "en": "alcohol-free",
+        "de": "Alkoholfrei",
+        "fr": "Sans alcool",
+        "es": "sin alcohol",
+        "ru": "безалкогольный",
+        "ja": "ノンアルコール",
+        "zh": "无酒精",
+        "ko": "무알코올"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Hugo",
+       "price": "€ 9,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Spritz Aperol",
+       "price": "€ 9,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Spritz Select",
+       "price": "€ 9,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Spritz Campari",
+       "price": "€ 9,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Spritz Cynar",
+       "price": "€ 9,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "bitter al carciofo",
+        "en": "artichoke bitter",
+        "de": "artichoke bitter",
+        "fr": "artichoke bitter",
+        "es": "bitter de alcachofa",
+        "ru": "артишоковый биттер",
+        "ja": "アーティチョークのビター",
+        "zh": "洋蓟苦酒",
+        "ko": "아티초크 비터"
+       }
+      },
+      {
+       "name": "Americano (Milano-Torino)",
+       "price": "€ 15,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "Campari, Punt e Mes",
+        "de": "Campari, Punt e Mes",
+        "fr": "Campari, Punt e Mes",
+        "es": "Campari, Punt e Mes",
+        "ru": "Campari, Punt e Mes",
+        "ja": "Campari、Punt e Mes",
+        "zh": "Campari、Punt e Mes",
+        "ko": "Campari, Punt e Mes"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Americano Vecchia Formula",
+       "price": "€ 15,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "Campari, antica formula",
+        "de": "Campari, alte Rezeptur",
+        "fr": "Campari, formule ancienne",
+        "es": "Campari, antica formula",
+        "ru": "Campari, antica formula",
+        "ja": "Campari、アンティカ・フォルムラ",
+        "zh": "Campari、古方",
+        "ko": "Campari, 안티카 포르물라"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Americano Teatro",
+       "price": "€ 15,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "Campari, Cocchi",
+        "de": "Campari, Cocchi",
+        "fr": "Campari, Cocchi",
+        "es": "Campari, Cocchi",
+        "ru": "Campari, Cocchi",
+        "ja": "Campari、Cocchi",
+        "zh": "Campari、Cocchi",
+        "ko": "Campari, Cocchi"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Americano Veneziano",
+       "price": "€ 15,00",
+       "allergens": [
+        12
+       ],
+       "desc": {
+        "it": "",
+        "en": "Select, vermouth",
+        "de": "Select, Wermut",
+        "fr": "Select, vermouth",
+        "es": "Select, vermut",
+        "ru": "Select, вермут",
+        "ja": "Select、ベルモット",
+        "zh": "Select、味美思",
+        "ko": "Select, 베르무트"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "bibite",
+     "title": {
+      "it": "Bibite",
+      "en": "Soft drinks",
+      "de": "Erfrischungsgetränke",
+      "fr": "Boissons",
+      "es": "Refrescos",
+      "ru": "Безалкогольные напитки",
+      "ja": "ソフトドリンク",
+      "zh": "软饮料",
+      "ko": "음료"
+     },
+     "items": [
+      {
+       "name": "Acqua S. Antonio 70 cl – naturale / frizzante",
+       "price": "€ 5,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "still / sparkling",
+        "de": "still / sparkling",
+        "fr": "still / sparkling",
+        "es": "sin gas / con gas",
+        "ru": "без газа / с газом",
+        "ja": "スティル／スパークリング",
+        "zh": "无气 / 有气",
+        "ko": "일반 / 탄산"
+       }
+      },
+      {
+       "name": "Coca-Cola",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Fanta",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Sprite",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Lemonsoda",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Acqua tonica",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "tonic water",
+        "de": "Tonic Water",
+        "fr": "Eau tonique",
+        "es": "agua tónica",
+        "ru": "тоник",
+        "ja": "トニックウォーター",
+        "zh": "汤力水",
+        "ko": "토닉워터"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Tè al limone",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "lemon iced tea",
+        "de": "Eistee Zitrone",
+        "fr": "Thé glacé au citron",
+        "es": "té frío al limón",
+        "ru": "холодный чай с лимоном",
+        "ja": "レモンアイスティー",
+        "zh": "柠檬冰茶",
+        "ko": "레몬 아이스티"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Tè alla pesca",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "peach iced tea",
+        "de": "Eistee Pfirsich",
+        "fr": "Thé glacé à la pêche",
+        "es": "té frío al melocotón",
+        "ru": "холодный чай с персиком",
+        "ja": "ピーチアイスティー",
+        "zh": "桃子冰茶",
+        "ko": "복숭아 아이스티"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Succo di mela",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "apple juice",
+        "de": "Apfelsaft",
+        "fr": "Jus de pomme",
+        "es": "zumo de manzana",
+        "ru": "яблочный сок",
+        "ja": "りんごジュース",
+        "zh": "苹果汁",
+        "ko": "사과 주스"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Succo d’arancia",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "orange juice",
+        "de": "Orangensaft",
+        "fr": "Jus d’orange",
+        "es": "zumo de naranja",
+        "ru": "апельсиновый сок",
+        "ja": "オレンジジュース",
+        "zh": "橙汁",
+        "ko": "오렌지 주스"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Succo ACE",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "arancia, carota e limone",
+        "en": "orange, carrot and lemon",
+        "de": "orange, carrot and lemon",
+        "fr": "orange, carrot and lemon",
+        "es": "naranja, zanahoria y limón",
+        "ru": "апельсин, морковь и лимон",
+        "ja": "オレンジ、にんじん、レモン",
+        "zh": "橙、胡萝卜、柠檬",
+        "ko": "오렌지, 당근, 레몬"
+       }
+      },
+      {
+       "name": "Limonata",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "lemonade",
+        "de": "Limonade",
+        "fr": "Limonade",
+        "es": "limonada",
+        "ru": "лимонад",
+        "ja": "レモネード",
+        "zh": "柠檬水",
+        "ko": "레모네이드"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "caffetteria",
+     "title": {
+      "it": "Caffetteria",
+      "en": "Coffee & tea",
+      "de": "Kaffee & Tee",
+      "fr": "Café & thé",
+      "es": "Café y té",
+      "ru": "Кофе и чай",
+      "ja": "コーヒーと紅茶",
+      "zh": "咖啡与茶",
+      "ko": "커피와 차"
+     },
+     "items": [
+      {
+       "name": "Caffè d’orzo",
+       "price": "€ 2,50",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "",
+        "en": "barley coffee",
+        "de": "Gerstenkaffee",
+        "fr": "Café d’orge",
+        "es": "café de cebada",
+        "ru": "ячменный кофе",
+        "ja": "大麦コーヒー",
+        "zh": "大麦咖啡",
+        "ko": "보리 커피"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Caffè espresso",
+       "price": "€ 3,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "espresso",
+        "de": "Espresso",
+        "fr": "Espresso",
+        "es": "espresso",
+        "ru": "эспрессо",
+        "ja": "エスプレッソ",
+        "zh": "意式浓缩咖啡",
+        "ko": "에스프레소"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Caffè espresso decaffeinato",
+       "price": "€ 3,50",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "decaf espresso",
+        "de": "Entkoffeinierter Espresso",
+        "fr": "Espresso décaféiné",
+        "es": "espresso descafeinado",
+        "ru": "эспрессо без кофеина",
+        "ja": "デカフェのエスプレッソ",
+        "zh": "低因浓缩咖啡",
+        "ko": "디카페인 에스프레소"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Cappuccino",
+       "price": "€ 4,00",
+       "allergens": [
+        7
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       }
+      },
+      {
+       "name": "Caffè corretto",
+       "price": "€ 4,50",
+       "allergens": [],
+       "desc": {
+        "it": "espresso con liquore",
+        "en": "espresso with a dash of liqueur",
+        "de": "espresso with a dash of liqueur",
+        "fr": "espresso with a dash of liqueur",
+        "es": "espresso con un chorrito de licor",
+        "ru": "эспрессо с каплей ликёра",
+        "ja": "リキュール入りエスプレッソ",
+        "zh": "加少许利口酒的浓缩咖啡",
+        "ko": "리큐어를 살짝 넣은 에스프레소"
+       }
+      },
+      {
+       "name": "Cappuccino decaffeinato",
+       "price": "€ 5,00",
+       "allergens": [
+        7
+       ],
+       "desc": {
+        "it": "",
+        "en": "decaf cappuccino",
+        "de": "Entkoffeinierter Cappuccino",
+        "fr": "Cappuccino décaféiné",
+        "es": "capuchino descafeinado",
+        "ru": "капучино без кофеина",
+        "ja": "デカフェのカプチーノ",
+        "zh": "低因卡布奇诺",
+        "ko": "디카페인 카푸치노"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Tè verde o nero",
+       "price": "€ 6,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "green or black tea",
+        "de": "Grüner oder schwarzer Tee",
+        "fr": "Thé vert ou noir",
+        "es": "té verde o negro",
+        "ru": "зелёный или чёрный чай",
+        "ja": "緑茶または紅茶",
+        "zh": "绿茶或红茶",
+        "ko": "녹차 또는 홍차"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Infuso digestivo",
+       "price": "€ 7,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "digestive herbal infusion",
+        "de": "Verdauungstee",
+        "fr": "Infusion digestive",
+        "es": "infusión digestiva",
+        "ru": "травяной чай для пищеварения",
+        "ja": "消化を助けるハーブティー",
+        "zh": "助消化花草茶",
+        "ko": "소화를 돕는 허브차"
+       },
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Infuso rilassante",
+       "price": "€ 7,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "relaxing herbal infusion",
+        "de": "Entspannungstee",
+        "fr": "Infusion relaxante",
+        "es": "infusión relajante",
+        "ru": "успокаивающий травяной чай",
+        "ja": "リラックスハーブティー",
+        "zh": "舒缓花草茶",
+        "ko": "릴랙스 허브차"
+       },
+       "tr_source": "base-menu.json"
+      }
+     ]
+    },
+    {
+     "id": "after-dinner",
+     "title": {
+      "it": "After dinner",
+      "en": "Cocktails & long drinks",
+      "de": "After Dinner",
+      "fr": "After dinner",
+      "es": "Cócteles y combinados",
+      "ru": "Коктейли и лонг-дринки",
+      "ja": "カクテル＆ロングドリンク",
+      "zh": "鸡尾酒与长饮",
+      "ko": "칵테일 & 롱드링크"
+     },
+     "items": [
+      {
+       "name": "Mare Tonic",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "gin Mare, tonica mediterranea",
+        "de": "gin Mare, tonica mediterranea",
+        "fr": "gin Mare, tonica mediterranea",
+        "es": "gin Mare, tónica mediterránea",
+        "ru": "gin Mare, средиземноморский тоник",
+        "ja": "gin Mare、地中海トニック",
+        "zh": "gin Mare、地中海汤力水",
+        "ko": "gin Mare, 지중해 토닉"
+       }
+      },
+      {
+       "name": "Hendrick’s",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "gin Hendrick’s, tonica Indian",
+        "de": "gin Hendrick’s, tonica Indian",
+        "fr": "gin Hendrick’s, tonica Indian",
+        "es": "gin Hendrick’s, tónica Indian",
+        "ru": "gin Hendrick’s, тоник Indian",
+        "ja": "gin Hendrick’s、インディアントニック",
+        "zh": "gin Hendrick’s、印度汤力水",
+        "ko": "gin Hendrick’s, 인디언 토닉"
+       }
+      },
+      {
+       "name": "Grey Goose",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "vodka Grey Goose, tonica mediterranea",
+        "de": "vodka Grey Goose, tonica mediterranea",
+        "fr": "vodka Grey Goose, tonica mediterranea",
+        "es": "vodka Grey Goose, tónica mediterránea",
+        "ru": "vodka Grey Goose, средиземноморский тоник",
+        "ja": "vodka Grey Goose、地中海トニック",
+        "zh": "vodka Grey Goose、地中海汤力水",
+        "ko": "vodka Grey Goose, 지중해 토닉"
+       }
+      },
+      {
+       "name": "Poli Tonic",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "gin Poli, tonica mediterranea",
+        "de": "gin Poli, tonica mediterranea",
+        "fr": "gin Poli, tonica mediterranea",
+        "es": "gin Poli, tónica mediterránea",
+        "ru": "gin Poli, средиземноморский тоник",
+        "ja": "gin Poli、地中海トニック",
+        "zh": "gin Poli、地中海汤力水",
+        "ko": "gin Poli, 지중해 토닉"
+       }
+      },
+      {
+       "name": "Broker’s",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "gin Broker’s, tonica mediterranea",
+        "de": "gin Broker’s, tonica mediterranea",
+        "fr": "gin Broker’s, tonica mediterranea",
+        "es": "gin Broker’s, tónica mediterránea",
+        "ru": "gin Broker’s, средиземноморский тоник",
+        "ja": "gin Broker’s、地中海トニック",
+        "zh": "gin Broker’s、地中海汤力水",
+        "ko": "gin Broker’s, 지중해 토닉"
+       }
+      },
+      {
+       "name": "Old Fashioned",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "bourbon, soda, Angostura",
+        "de": "bourbon, soda, Angostura",
+        "fr": "bourbon, soda, Angostura",
+        "es": "bourbon, soda, Angostura",
+        "ru": "bourbon, содовая, Angostura",
+        "ja": "bourbon、ソーダ、Angostura",
+        "zh": "bourbon、苏打水、Angostura",
+        "ko": "bourbon, 소다, Angostura"
+       }
+      },
+      {
+       "name": "Espresso Martini",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "caffè, vodka, Kahlúa",
+        "de": "caffè, vodka, Kahlúa",
+        "fr": "caffè, vodka, Kahlúa",
+        "es": "café, vodka, Kahlúa",
+        "ru": "кофе, vodka, Kahlúa",
+        "ja": "コーヒー、vodka、Kahlúa",
+        "zh": "咖啡、vodka、Kahlúa",
+        "ko": "커피, vodka, Kahlúa"
+       }
+      },
+      {
+       "name": "Grappa Sour",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "grappa barricata, zucchero, lime",
+        "de": "grappa barricata, zucchero, lime",
+        "fr": "grappa barricata, zucchero, lime",
+        "es": "grappa envejecida en barrica, azúcar, lima",
+        "ru": "граппа из бочки, сахар, лайм",
+        "ja": "樽熟成グラッパ、砂糖、ライム",
+        "zh": "橡木桶陈酿格拉帕、糖、青柠",
+        "ko": "오크통 숙성 그라파, 설탕, 라임"
+       }
+      },
+      {
+       "name": "Vodka Sour",
+       "price": "€ 15,00",
+       "allergens": [],
+       "desc": {
+        "it": "",
+        "en": "vodka, lime, zucchero",
+        "de": "vodka, lime, zucchero",
+        "fr": "vodka, lime, zucchero",
+        "es": "vodka, lima, azúcar",
+        "ru": "vodka, лайм, сахар",
+        "ja": "vodka、ライム、砂糖",
+        "zh": "vodka、青柠、糖",
+        "ko": "vodka, 라임, 설탕"
+       }
+      }
+     ]
+    },
+    {
+     "id": "birre",
+     "title": {
+      "it": "Birre",
+      "en": "Beers",
+      "de": "Biere",
+      "fr": "Bières",
+      "es": "Cervezas",
+      "ru": "Пиво",
+      "ja": "ビール",
+      "zh": "啤酒",
+      "ko": "맥주"
+     },
+     "items": [
+      {
+       "sub": {
+        "it": "In bottiglia",
+        "en": "Bottled",
+        "de": "Flaschenbier",
+        "fr": "En bouteille",
+        "es": "En botella",
+        "ru": "В бутылках",
+        "ja": "ボトル",
+        "zh": "瓶装",
+        "ko": "병맥주"
+       }
+      },
+      {
+       "name": "Corona",
+       "price": "€ 9,00",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       },
+       "vol": "0,33 l"
+      },
+      {
+       "name": "Moretti Rossa",
+       "price": "€ 10,00",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "",
+        "en": "",
+        "de": "",
+        "fr": ""
+       },
+       "vol": "0,33 l"
+      },
+      {
+       "name": "San Gabriel bionda",
+       "price": "€ 10,00",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "artigianale",
+        "en": "craft blonde ale",
+        "de": "Craft-Bier",
+        "fr": "Bière artisanale",
+        "es": "cerveza artesanal rubia",
+        "ru": "крафтовое светлое пиво",
+        "ja": "クラフトのブロンドエール",
+        "zh": "精酿金色艾尔",
+        "ko": "크래프트 블론드 에일"
+       },
+       "vol": "0,33 l",
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "San Gabriel rossa",
+       "price": "€ 10,00",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "artigianale",
+        "en": "craft red ale",
+        "de": "Craft-Bier",
+        "fr": "Bière artisanale",
+        "es": "cerveza artesanal roja",
+        "ru": "крафтовое красное пиво",
+        "ja": "クラフトのレッドエール",
+        "zh": "精酿红色艾尔",
+        "ko": "크래프트 레드 에일"
+       },
+       "vol": "0,33 l",
+       "tr_source": "base-menu.json"
+      },
+      {
+       "sub": {
+        "it": "Alla spina",
+        "en": "On draught",
+        "de": "Vom Fass",
+        "fr": "À la pression",
+        "es": "De barril",
+        "ru": "Разливное",
+        "ja": "生ビール",
+        "zh": "生啤",
+        "ko": "생맥주"
+       }
+      },
+      {
+       "name": "Birra bionda piccola alla spina",
+       "price": "€ 6,00",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "",
+        "en": "small draught lager",
+        "de": "Kleines helles Bier vom Fass",
+        "fr": "Petite bière blonde pression",
+        "es": "caña rubia pequeña",
+        "ru": "светлое разливное, малое",
+        "ja": "生ビール（ラガー）小",
+        "zh": "小杯生啤（拉格）",
+        "ko": "생맥주(라거) 작은 잔"
+       },
+       "vol": "0,20 l",
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Birra bionda media alla spina",
+       "price": "€ 9,00",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "",
+        "en": "medium draught lager",
+        "de": "Mittleres helles Bier vom Fass",
+        "fr": "Bière blonde pression moyenne",
+        "es": "caña rubia mediana",
+        "ru": "светлое разливное, среднее",
+        "ja": "生ビール（ラガー）中",
+        "zh": "中杯生啤（拉格）",
+        "ko": "생맥주(라거) 중간 잔"
+       },
+       "vol": "0,40 l",
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Birra rossa piccola alla spina",
+       "price": "€ 7,00",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "",
+        "en": "small draught red ale",
+        "de": "Kleines rotes Bier vom Fass",
+        "fr": "Petite bière ambrée pression",
+        "es": "cerveza roja de barril pequeña",
+        "ru": "красное разливное, малое",
+        "ja": "生レッドエール小",
+        "zh": "小杯生红色艾尔",
+        "ko": "생 레드 에일 작은 잔"
+       },
+       "vol": "0,20 l",
+       "tr_source": "base-menu.json"
+      },
+      {
+       "name": "Birra rossa media alla spina",
+       "price": "€ 10,00",
+       "allergens": [
+        1
+       ],
+       "desc": {
+        "it": "",
+        "en": "medium draught red ale",
+        "de": "Mittleres rotes Bier vom Fass",
+        "fr": "Bière ambrée pression moyenne",
+        "es": "cerveza roja de barril mediana",
+        "ru": "красное разливное, среднее",
+        "ja": "生レッドエール中",
+        "zh": "中杯生红色艾尔",
+        "ko": "생 레드 에일 중간 잔"
+       },
+       "vol": "0,40 l",
+       "tr_source": "base-menu.json"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "allergeni": [
+  {
+   "n": 1,
+   "it": "Cereali contenenti glutine",
+   "en": "Cereals containing gluten",
+   "de": "Glutenhaltiges Getreide",
+   "fr": "Céréales contenant du gluten",
+   "es": "Cereales con gluten",
+   "ru": "Злаки, содержащие глютен",
+   "ja": "グルテンを含む穀物",
+   "zh": "含麸质谷物",
+   "ko": "글루텐 함유 곡물"
+  },
+  {
+   "n": 2,
+   "it": "Crostacei",
+   "en": "Crustaceans",
+   "de": "Krebstiere",
+   "fr": "Crustacés",
+   "es": "Crustáceos",
+   "ru": "Ракообразные",
+   "ja": "甲殻類",
+   "zh": "甲壳类",
+   "ko": "갑각류"
+  },
+  {
+   "n": 3,
+   "it": "Uova",
+   "en": "Eggs",
+   "de": "Eier",
+   "fr": "Œufs",
+   "es": "Huevos",
+   "ru": "Яйца",
+   "ja": "卵",
+   "zh": "蛋类",
+   "ko": "달걀"
+  },
+  {
+   "n": 4,
+   "it": "Pesce",
+   "en": "Fish",
+   "de": "Fisch",
+   "fr": "Poisson",
+   "es": "Pescado",
+   "ru": "Рыба",
+   "ja": "魚",
+   "zh": "鱼类",
+   "ko": "생선"
+  },
+  {
+   "n": 5,
+   "it": "Arachidi",
+   "en": "Peanuts",
+   "de": "Erdnüsse",
+   "fr": "Arachides",
+   "es": "Cacahuetes",
+   "ru": "Арахис",
+   "ja": "落花生",
+   "zh": "花生",
+   "ko": "땅콩"
+  },
+  {
+   "n": 6,
+   "it": "Soia",
+   "en": "Soy",
+   "de": "Soja",
+   "fr": "Soja",
+   "es": "Soja",
+   "ru": "Соя",
+   "ja": "大豆",
+   "zh": "大豆",
+   "ko": "대두"
+  },
+  {
+   "n": 7,
+   "it": "Latte e derivati (lattosio)",
+   "en": "Milk and dairy (lactose)",
+   "de": "Milch und Milchprodukte (Laktose)",
+   "fr": "Lait et produits laitiers (lactose)",
+   "es": "Leche",
+   "ru": "Молоко",
+   "ja": "乳",
+   "zh": "乳及乳制品",
+   "ko": "우유"
+  },
+  {
+   "n": 8,
+   "it": "Frutta a guscio",
+   "en": "Tree nuts",
+   "de": "Schalenfrüchte",
+   "fr": "Fruits à coque",
+   "es": "Frutos de cáscara",
+   "ru": "Орехи",
+   "ja": "ナッツ類",
+   "zh": "坚果",
+   "ko": "견과류"
+  },
+  {
+   "n": 9,
+   "it": "Sedano",
+   "en": "Celery",
+   "de": "Sellerie",
+   "fr": "Céleri",
+   "es": "Apio",
+   "ru": "Сельдерей",
+   "ja": "セロリ",
+   "zh": "芹菜",
+   "ko": "셀러리"
+  },
+  {
+   "n": 10,
+   "it": "Senape",
+   "en": "Mustard",
+   "de": "Senf",
+   "fr": "Moutarde",
+   "es": "Mostaza",
+   "ru": "Горчица",
+   "ja": "マスタード",
+   "zh": "芥末",
+   "ko": "겨자"
+  },
+  {
+   "n": 11,
+   "it": "Semi di sesamo",
+   "en": "Sesame seeds",
+   "de": "Sesamsamen",
+   "fr": "Graines de sésame",
+   "es": "Sésamo",
+   "ru": "Кунжут",
+   "ja": "ごま",
+   "zh": "芝麻",
+   "ko": "참깨"
+  },
+  {
+   "n": 12,
+   "it": "Anidride solforosa e solfiti",
+   "en": "Sulphur dioxide and sulphites",
+   "de": "Schwefeldioxid und Sulfite",
+   "fr": "Anhydride sulfureux et sulfites",
+   "es": "Sulfitos",
+   "ru": "Сульфиты",
+   "ja": "亜硫酸塩",
+   "zh": "亚硫酸盐",
+   "ko": "아황산염"
+  },
+  {
+   "n": 13,
+   "it": "Lupini",
+   "en": "Lupin",
+   "de": "Lupinen",
+   "fr": "Lupin",
+   "es": "Altramuces",
+   "ru": "Люпин",
+   "ja": "ルピナス",
+   "zh": "羽扇豆",
+   "ko": "루핀"
+  },
+  {
+   "n": 14,
+   "it": "Molluschi",
+   "en": "Molluscs",
+   "de": "Weichtiere",
+   "fr": "Mollusques",
+   "es": "Moluscos",
+   "ru": "Моллюски",
+   "ja": "軟体動物",
+   "zh": "软体动物",
+   "ko": "연체동물"
+  }
+ ],
+ "note_allergeni": [
+  {
+   "it": "I numeri accanto ai piatti indicano gli allergeni presenti (Reg. UE 1169/2011). Per qualsiasi informazione su sostanze o prodotti che provocano allergie o intolleranze è possibile rivolgersi al personale in servizio, che fornirà la documentazione completa.",
+   "en": "The numbers next to each dish indicate the allergens it contains (EU Reg. 1169/2011). For any information on substances or products causing allergies or intolerances, please ask our staff, who will provide full documentation.",
+   "es": "Los números junto a los platos indican los alérgenos presentes (Reg. UE 1169/2011). Para cualquier información sobre sustancias o productos que causan alergias o intolerancias, puede dirigirse al personal, que le facilitará la documentación completa.",
+   "ru": "Цифры рядом с блюдами обозначают аллергены (Регламент ЕС 1169/2011). За информацией о веществах и продуктах, вызывающих аллергию или непереносимость, обращайтесь к персоналу — вам предоставят полную документацию.",
+   "ja": "料理の横の数字は含まれるアレルゲンを示します（EU規則1169/2011）。アレルギーや不耐症の原因となる物質・食品については、スタッフにお尋ねください。詳しい資料をご用意しています。",
+   "zh": "菜品旁的数字表示所含过敏原（欧盟法规1169/2011）。如需了解引起过敏或不耐受的物质或产品，请咨询服务人员，我们将提供完整资料。",
+   "ko": "요리 옆 숫자는 포함된 알레르기 유발 물질을 나타냅니다(EU 규정 1169/2011). 알레르기나 불내증을 일으키는 물질이나 제품에 대해서는 직원에게 문의하시면 전체 자료를 드립니다."
+  },
+  {
+   "it": "Nella nostra cucina si utilizzano tutti gli allergeni elencati: tutti i piatti possono contenerne tracce.",
+   "en": "All of the listed allergens are handled in our kitchen: every dish may contain traces of them.",
+   "es": "Todos los alérgenos indicados se utilizan en nuestra cocina: cada plato puede contener trazas.",
+   "ru": "Все перечисленные аллергены используются на нашей кухне: любое блюдо может содержать их следы.",
+   "ja": "記載のアレルゲンはすべて当店の厨房で扱っています。どの料理にも微量が含まれる可能性があります。",
+   "zh": "所列过敏原均在我们的厨房中使用：每道菜都可能含有微量。",
+   "ko": "표시된 알레르기 유발 물질은 모두 주방에서 사용합니다. 모든 요리에 미량이 포함될 수 있습니다."
+  },
+  {
+   "it": "* In base alla disponibilità di mercato alcuni prodotti possono essere surgelati all’origine o abbattuti in loco per garantirne qualità e sicurezza. Chiedete al personale.",
+   "en": "* Depending on market availability, some products may be frozen at source or blast-chilled on site to ensure quality and safety. Please ask our staff.",
+   "es": "* Según la disponibilidad del mercado, algunos productos pueden estar congelados en origen o abatidos en el local para garantizar su calidad y seguridad. Consulte al personal.",
+   "ru": "* В зависимости от наличия на рынке некоторые продукты могут быть заморожены у производителя или шоковой заморозкой на месте для качества и безопасности. Уточняйте у персонала.",
+   "ja": "* 市場の入荷状況により、品質と安全のため一部の食材は産地で冷凍、または店内で急速冷却している場合があります。スタッフにお尋ねください。",
+   "zh": "* 视市场供应情况，部分食材可能在产地冷冻或在店内急冻，以确保品质与安全。请咨询服务人员。",
+   "ko": "* 시장 사정에 따라 품질과 안전을 위해 일부 식재료는 산지에서 냉동되었거나 매장에서 급속 냉각될 수 있습니다. 직원에게 문의하세요."
+  }
+ ]
+}

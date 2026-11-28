@@ -1,0 +1,282 @@
+{
+ "aggiornato": "2026-11-24",
+ "storie": [
+  {
+   "id": "tole",
+   "kicker": {
+    "it": "La nostra calle",
+    "en": "Our street",
+    "es": "Nuestra calle",
+    "ru": "Наша улица",
+    "ja": "私たちの通り",
+    "zh": "我们的街道",
+    "ko": "우리 골목",
+    "de": "Unsere Gasse",
+    "fr": "Notre rue"
+   },
+   "titolo": {
+    "it": "Barbaria de le Tole: la via delle tavole",
+    "en": "Barbaria de le Tole: the street of planks",
+    "es": "Barbaria de le Tole: la calle de los tablones",
+    "ru": "Барбария-де-ле-Толе: улица досок",
+    "ja": "バルバリア・デ・レ・トーレ：板の通り",
+    "zh": "巴尔巴里亚·德·勒·托莱：木板之街",
+    "ko": "바르바리아 데 레 톨레: 널빤지의 거리",
+    "de": "Barbaria de le Tole: die Gasse der Bretter",
+    "fr": "Barbaria de le Tole : la rue des planches"
+   },
+   "testo": {
+    "it": "Le «tole» sono le tavole di legno: per secoli qui c'erano i magazzini dei mercanti di legname. Sul nome «Barbaria» le ipotesi sono tante (un'antica boscaglia, le botteghe da barbiere, i montanari «barbari» che vendevano il legno), ma la più verosimile secondo Giuseppe Tassini è che le tavole fossero destinate ai paesi della Barberia, cioè il Nord Africa: un commercio che i Veneziani praticavano fin dall'antichità.",
+    "en": "\"Tole\" are wooden planks: for centuries this street was lined with timber merchants' stores. There are many theories about the name \"Barbaria\" (an ancient thicket, barbers' shops, the \"barbarous\" mountain folk who sold the wood), but the most likely, according to Giuseppe Tassini, is that the planks were bound for the Barbary coast of North Africa, a trade the Venetians had practised since ancient times.",
+    "es": "Las «tole» son tablones de madera: durante siglos aquí estuvieron los almacenes de los comerciantes de madera. Sobre el nombre «Barbaria» hay muchas hipótesis (un antiguo bosque, las barberías, los montañeses «bárbaros» que vendían la madera), pero la más probable, según Giuseppe Tassini, es que los tablones fueran destinados a Berbería, en el norte de África: un comercio que los venecianos practicaban desde la Antigüedad.",
+    "ru": "«Толе» — это деревянные доски: веками здесь были склады торговцев лесом. О названии «Барбария» есть много версий (древняя чаща, цирюльни, «варвары»-горцы, продававшие дерево), но самая вероятная, по Джузеппе Тассини, — доски отправляли в Берберию, в Северную Африку: венецианцы вели эту торговлю с древних времён.",
+    "ja": "「トーレ」とは木の板のこと。何世紀もの間、この通りには材木商の倉庫が並んでいました。「バルバリア」の名には諸説あり（古い茂み、理髪店、木を売った「野蛮な」山の民など）、ジュゼッペ・タッシーニによれば最も有力なのは、板が北アフリカのバルバリア地方へ送られていたという説。ヴェネツィア人が古くから営んでいた交易です。",
+    "zh": "“tole”意为木板：几个世纪以来，这里林立着木材商人的仓库。关于“巴尔巴里亚”之名众说纷纭（古老的灌木林、理发铺、贩卖木材的“蛮族”山民），但据朱塞佩·塔西尼考证，最可信的说法是这些木板运往北非的柏柏里地区——威尼斯人自古便从事这项贸易。",
+    "ko": "'톨레'는 나무 널빤지를 뜻합니다. 수세기 동안 이 골목에는 목재 상인들의 창고가 늘어서 있었습니다. '바르바리아'라는 이름에는 여러 설(오래된 덤불, 이발소, 나무를 팔던 '야만인' 산사람들)이 있지만, 주세페 타시니에 따르면 가장 유력한 설은 널빤지가 북아프리카 바르바리 지역으로 보내졌다는 것입니다. 베네치아인들이 예로부터 해 온 교역이죠.",
+    "de": "„Tole“ sind Holzbretter: Jahrhundertelang standen hier die Lager der Holzhändler. Zum Namen „Barbaria“ gibt es viele Thesen (ein alter Buschwald, die Barbierstuben, die „barbarischen“ Bergleute, die das Holz verkauften), doch am wahrscheinlichsten ist laut Giuseppe Tassini, dass die Bretter für die Berberei in Nordafrika bestimmt waren – ein Handel, den die Venezianer seit der Antike betrieben.",
+    "fr": "Les « tole » sont des planches de bois : pendant des siècles, les entrepôts des marchands de bois bordaient cette rue. Le nom « Barbaria » a de nombreuses explications (un ancien maquis, les boutiques de barbiers, les montagnards « barbares » qui vendaient le bois), mais la plus probable, selon Giuseppe Tassini, est que les planches partaient pour la Barbarie, en Afrique du Nord : un commerce pratiqué par les Vénitiens depuis l'Antiquité."
+   },
+   "fonte": "https://curiositaveneziane.it/curiosita/tole-barbaria-delle/",
+   "fonte_nome": "G. Tassini, Curiosità Veneziane"
+  },
+  {
+   "id": "brusa",
+   "kicker": {
+    "it": "Curiosità",
+    "en": "Curiosity",
+    "es": "Curiosidad",
+    "ru": "Любопытный факт",
+    "ja": "豆知識",
+    "zh": "趣闻",
+    "ko": "흥미로운 이야기",
+    "de": "Kurioses",
+    "fr": "Curiosité"
+   },
+   "titolo": {
+    "it": "Calle Primo e Secondo Brusà",
+    "en": "Calle Primo and Secondo Brusà",
+    "es": "Calle Primo y Secondo Brusà",
+    "ru": "Калле Примо и Секондо Бруза",
+    "ja": "カッレ・プリモ・ブルーザとセコンド・ブルーザ",
+    "zh": "第一与第二“布鲁萨”巷",
+    "ko": "칼레 프리모·세콘도 브루자",
+    "de": "Calle Primo und Secondo Brusà",
+    "fr": "Calle Primo et Secondo Brusà"
+   },
+   "testo": {
+    "it": "Due grandi incendi colpirono la Barbaria nel Seicento: il primo nel settembre 1683, il secondo il 2 giugno 1686, partito da una bottega di legname. Da allora due calli vicine si chiamano Primo e Secondo Brusà («bruciato»). La tradizione racconta che una sola casa si salvò, grazie all'immagine di Sant'Antonio sulla facciata.",
+    "en": "Two great fires struck the Barbaria in the 17th century: the first in September 1683, the second on 2 June 1686, starting in a timber shop. Ever since, two nearby alleys have been called Primo and Secondo Brusà (\"burnt\"). Legend has it that only one house survived, thanks to the image of Saint Anthony on its façade.",
+    "es": "Dos grandes incendios golpearon la Barbaria en el siglo XVII: el primero en septiembre de 1683, el segundo el 2 de junio de 1686, iniciado en una tienda de madera. Desde entonces dos callejones cercanos se llaman Primo y Secondo Brusà («quemado»). Cuenta la leyenda que solo se salvó una casa, gracias a la imagen de san Antonio en su fachada.",
+    "ru": "В XVII веке Барбарию опустошили два больших пожара: первый — в сентябре 1683 года, второй — 2 июня 1686 года, начавшийся в лавке с древесиной. С тех пор два соседних переулка называются Примо и Секондо Бруза («сгоревший»). По легенде, уцелел лишь один дом — благодаря образу святого Антония на фасаде.",
+    "ja": "17世紀、バルバリアは2度の大火に見舞われました。1度目は1683年9月、2度目は1686年6月2日で、材木店から出火しました。以来、近くの2本の路地は「プリモ・ブルーザ」「セコンド・ブルーザ」（「焼けた」の意）と呼ばれています。伝説では、ファサードに聖アントニオの像があった1軒だけが焼け残ったといいます。",
+    "zh": "17世纪，巴尔巴里亚遭遇两场大火：第一场在1683年9月，第二场在1686年6月2日，起火于一家木材店。此后附近两条小巷被称为“第一布鲁萨”和“第二布鲁萨”（意为“烧焦的”）。传说只有一栋房子幸免于难，因为它的外墙上有圣安东尼的画像。",
+    "ko": "17세기 바르바리아에는 두 번의 큰 화재가 있었습니다. 첫 번째는 1683년 9월, 두 번째는 1686년 6월 2일 목재 가게에서 시작되었습니다. 그 뒤로 근처 두 골목은 '프리모 브루자', '세콘도 브루자'('불탄')로 불립니다. 전설에 따르면 정면에 성 안토니오 그림이 있던 집 한 채만 살아남았다고 합니다.",
+    "de": "Im 17. Jahrhundert trafen zwei große Brände die Barbaria: der erste im September 1683, der zweite am 2. Juni 1686, ausgehend von einer Holzhandlung. Seitdem heißen zwei Gassen in der Nähe Primo und Secondo Brusà („verbrannt“). Der Legende nach überstand nur ein Haus das Feuer – dank des Bildes des heiligen Antonius an seiner Fassade.",
+    "fr": "Deux grands incendies frappèrent la Barbaria au XVIIe siècle : le premier en septembre 1683, le second le 2 juin 1686, parti d'une boutique de bois. Depuis, deux ruelles voisines s'appellent Primo et Secondo Brusà (« brûlé »). La légende veut qu'une seule maison ait été épargnée, grâce à l'image de saint Antoine sur sa façade."
+   },
+   "fonte": "https://curiositaveneziane.it/curiosita/tole-barbaria-delle/",
+   "fonte_nome": "G. Tassini, Curiosità Veneziane"
+  },
+  {
+   "id": "ospedaletto",
+   "kicker": {
+    "it": "A 40 metri",
+    "en": "40 metres away",
+    "es": "A 40 metros",
+    "ru": "В 40 метрах",
+    "ja": "40メートル先",
+    "zh": "40米外",
+    "ko": "40미터 거리",
+    "de": "40 Meter entfernt",
+    "fr": "À 40 mètres"
+   },
+   "ll": [
+    45.43891,
+    12.34289
+   ],
+   "titolo": {
+    "it": "L'Ospedaletto e la Sala della Musica",
+    "en": "The Ospedaletto and its Music Room",
+    "es": "El Ospedaletto y su Sala de la Música",
+    "ru": "Оспедалетто и его Музыкальный зал",
+    "ja": "オスペダレットと音楽の間",
+    "zh": "小医院与音乐厅",
+    "ko": "오스페달레토와 음악의 방",
+    "de": "Das Ospedaletto und sein Musiksaal",
+    "fr": "L'Ospedaletto et sa salle de musique"
+   },
+   "testo": {
+    "it": "Nato nel 1527 per dare riparo a poveri e malati, l'Ospedaletto (Santa Maria dei Derelitti) ha sulla Barbaria la facciata barocca di Baldassare Longhena, avviata nel 1674. Qui si educavano i giovani alla musica: la Sala della Musica, ovale, fu affrescata da Jacopo Guarana nel 1776-77 con le architetture dipinte di Agostino Mengozzi-Colonna.",
+    "en": "Founded in 1527 to shelter the poor and the sick, the Ospedaletto (Santa Maria dei Derelitti) faces the Barbaria with Baldassare Longhena's Baroque façade, begun in 1674. Young residents were trained in music here: the oval Music Room was frescoed by Jacopo Guarana in 1776-77, with painted architecture by Agostino Mengozzi-Colonna.",
+    "es": "Fundado en 1527 para acoger a pobres y enfermos, el Ospedaletto (Santa Maria dei Derelitti) da a la Barbaria con la fachada barroca de Baldassare Longhena, iniciada en 1674. Aquí se formaba en la música a las jóvenes acogidas: la Sala de la Música ovalada fue pintada al fresco por Jacopo Guarana en 1776-77, con arquitecturas pintadas de Agostino Mengozzi-Colonna.",
+    "ru": "Основанный в 1527 году для бедных и больных, Оспедалетто (Санта-Мария-деи-Дерелитти) выходит на Барбарию барочным фасадом Бальдассаре Лонгены, начатым в 1674 году. Здесь воспитанниц обучали музыке: овальный Музыкальный зал расписал фресками Якопо Гуарана в 1776–77 годах, архитектурные росписи — Агостино Менгоцци-Колонна.",
+    "ja": "1527年に貧しい人や病人を受け入れるために創設されたオスペダレット（サンタ・マリア・デイ・デレリッティ）は、1674年に着工したバルダッサーレ・ロンゲーナのバロック様式のファサードをバルバリアに向けています。ここでは収容された少女たちが音楽を学びました。楕円形の音楽の間は1776〜77年にヤコポ・グアラーナがフレスコ画を描き、アゴスティーノ・メンゴッツィ＝コロンナが建築画を手がけました。",
+    "zh": "小医院（圣母遗孤院）创建于1527年，用于收容穷人和病人，其面向巴尔巴里亚街的巴洛克立面由巴尔达萨雷·隆盖纳设计，始建于1674年。这里曾教收养的少女学习音乐：椭圆形音乐厅的壁画由雅各布·瓜拉纳于1776—77年绘制，建筑透视画出自阿戈斯蒂诺·门戈齐-科隆纳之手。",
+    "ko": "1527년 가난한 이와 병자를 돌보기 위해 세워진 오스페달레토(산타 마리아 데이 데렐리티)는 1674년 착공한 발다사레 롱게나의 바로크 정면을 바르바리아 쪽으로 두고 있습니다. 이곳에서 보호받던 소녀들이 음악을 배웠으며, 타원형 음악의 방은 1776~77년 야코포 과라나가 프레스코를, 아고스티노 멘고치-콜론나가 건축 그림을 그렸습니다.",
+    "de": "1527 gegründet, um Arme und Kranke aufzunehmen, wendet sich das Ospedaletto (Santa Maria dei Derelitti) mit Baldassare Longhenas barocker Fassade, begonnen 1674, der Barbaria zu. Hier wurden die jungen Schützlinge in Musik ausgebildet: Den ovalen Musiksaal freskierte Jacopo Guarana 1776–77, die gemalten Architekturen stammen von Agostino Mengozzi-Colonna.",
+    "fr": "Fondé en 1527 pour accueillir les pauvres et les malades, l'Ospedaletto (Santa Maria dei Derelitti) donne sur la Barbaria par la façade baroque de Baldassare Longhena, commencée en 1674. Les jeunes pensionnaires y étaient formées à la musique : la salle de musique ovale fut peinte à fresque par Jacopo Guarana en 1776-77, avec des architectures peintes d'Agostino Mengozzi-Colonna."
+   },
+   "fonte": "https://www.veneziamuseo.it/terra/Castello/Maria/mariafor_ospto.htm",
+   "fonte2": "https://europeanheritageawards-archive.eu/laureates-1978-2022/detail/hall-of-music-sala-della-musica-ospedaletto",
+   "fonte_nome": "veneziamuseo.it · Europa Nostra"
+  },
+  {
+   "id": "zanipolo",
+   "kicker": {
+    "it": "A un minuto",
+    "en": "One minute away",
+    "es": "A un minuto",
+    "ru": "В одной минуте",
+    "ja": "徒歩1分",
+    "zh": "步行一分钟",
+    "ko": "걸어서 1분",
+    "de": "Eine Minute entfernt",
+    "fr": "À une minute"
+   },
+   "ll": [
+    45.43925,
+    12.3422
+   ],
+   "titolo": {
+    "it": "San Zanipolo, il sogno di un doge",
+    "en": "San Zanipolo, a doge's dream",
+    "es": "San Zanipolo, el sueño de un dux",
+    "ru": "Сан-Дзаниполо, сон дожа",
+    "ja": "サン・ザニポーロ、ドージェの夢",
+    "zh": "圣若望及保禄堂：总督之梦",
+    "ko": "산 자니폴로, 도제의 꿈",
+    "de": "San Zanipolo, der Traum eines Dogen",
+    "fr": "San Zanipolo, le rêve d'un doge"
+   },
+   "testo": {
+    "it": "Nel 1234 il doge Jacopo Tiepolo sognò un luogo paludoso pieno di fiori e colombe e lo donò ai Domenicani. La basilica dei Santi Giovanni e Paolo, consacrata il 14 novembre 1430, è la chiesa più grande della città e custodisce i monumenti di molti dogi. Dal 1806 l'antico convento è l'ospedale civile.",
+    "en": "In 1234 Doge Jacopo Tiepolo dreamt of a marshy place full of flowers and doves and gave it to the Dominicans. The Basilica of Santi Giovanni e Paolo, consecrated on 14 November 1430, is the largest church in the city and holds the tombs of many doges. Since 1806 the old convent has been the city hospital.",
+    "es": "En 1234 el dux Jacopo Tiepolo soñó con un lugar pantanoso lleno de flores y palomas y lo donó a los dominicos. La basílica de Santi Giovanni e Paolo, consagrada el 14 de noviembre de 1430, es la iglesia más grande de la ciudad y guarda las tumbas de muchos dux. Desde 1806 el antiguo convento es el hospital de la ciudad.",
+    "ru": "В 1234 году дожу Якопо Тьеполо приснилось болотистое место, полное цветов и голубей, и он подарил его доминиканцам. Базилика Санти-Джованни-э-Паоло, освящённая 14 ноября 1430 года, — крупнейшая церковь города; здесь покоятся многие дожи. С 1806 года бывший монастырь служит городской больницей.",
+    "ja": "1234年、ドージェのヤコポ・ティエポロは花と鳩に満ちた湿地の夢を見て、その地をドミニコ会に寄進しました。1430年11月14日に献堂されたサンティ・ジョヴァンニ・エ・パオロ聖堂は市内最大の教会で、多くのドージェが眠っています。1806年からは旧修道院が市の病院になっています。",
+    "zh": "1234年，总督雅各布·蒂耶波洛梦见一片开满鲜花、群鸽飞舞的沼泽地，便将此地赠予多明我会。圣若望及保禄大殿于1430年11月14日祝圣，是全城最大的教堂，安葬着多位总督。自1806年起，旧修道院成为城市医院。",
+    "ko": "1234년 도제 야코포 티에폴로는 꽃과 비둘기로 가득한 습지를 꿈에서 보고 그 땅을 도미니코회에 기증했습니다. 1430년 11월 14일 축성된 산티 조반니 에 파올로 대성당은 도시에서 가장 큰 성당으로 많은 도제가 잠들어 있습니다. 1806년부터 옛 수도원은 시립 병원입니다.",
+    "de": "1234 träumte Doge Jacopo Tiepolo von einem sumpfigen Ort voller Blumen und Tauben und schenkte ihn den Dominikanern. Die Basilika Santi Giovanni e Paolo, geweiht am 14. November 1430, ist die größte Kirche der Stadt und birgt die Gräber vieler Dogen. Seit 1806 ist das alte Kloster das Krankenhaus der Stadt.",
+    "fr": "En 1234, le doge Jacopo Tiepolo rêva d'un lieu marécageux plein de fleurs et de colombes et le donna aux Dominicains. La basilique Santi Giovanni e Paolo, consacrée le 14 novembre 1430, est la plus grande église de la ville et abrite les tombeaux de nombreux doges. Depuis 1806, l'ancien couvent est l'hôpital de la ville."
+   },
+   "fonte": "https://santigiovanniepaolo.it/storia-e-missione/",
+   "fonte_nome": "Basilica dei Santi Giovanni e Paolo"
+  },
+  {
+   "id": "colleoni",
+   "kicker": {
+    "it": "Nel campo",
+    "en": "In the campo",
+    "es": "En el campo",
+    "ru": "На площади",
+    "ja": "広場にて",
+    "zh": "广场上",
+    "ko": "광장에서",
+    "de": "Auf dem Campo",
+    "fr": "Sur le campo"
+   },
+   "titolo": {
+    "it": "Il Colleoni del Verrocchio",
+    "en": "Verrocchio's Colleoni",
+    "es": "El Colleoni de Verrocchio",
+    "ru": "Коллеони работы Верроккьо",
+    "ja": "ヴェロッキオのコッレオーニ像",
+    "zh": "韦罗基奥的科莱奥尼像",
+    "ko": "베로키오의 콜레오니 상",
+    "de": "Verrocchios Colleoni",
+    "fr": "Le Colleoni de Verrocchio"
+   },
+   "testo": {
+    "it": "Al centro del campo, su un alto basamento di marmi colorati, il condottiero Bartolomeo Colleoni a cavallo: quasi quattro metri di bronzo. Verrocchio morì a Venezia nel 1488 con la statua da finire, e la Repubblica affidò il lavoro ad Alessandro Leopardi. Accanto, la facciata della Scuola Grande di San Marco, oggi ingresso dell'ospedale.",
+    "en": "In the middle of the campo, on a tall pedestal of coloured marble, stands the condottiero Bartolomeo Colleoni on horseback: almost four metres of bronze. Verrocchio died in Venice in 1488 with the statue unfinished, and the Republic entrusted it to Alessandro Leopardi. Next to it is the façade of the Scuola Grande di San Marco, now the hospital entrance.",
+    "es": "En medio del campo, sobre un alto pedestal de mármoles de colores, se alza a caballo el condotiero Bartolomeo Colleoni: casi cuatro metros de bronce. Verrocchio murió en Venecia en 1488 con la estatua sin terminar, y la República la confió a Alessandro Leopardi. Al lado está la fachada de la Scuola Grande di San Marco, hoy entrada del hospital.",
+    "ru": "Посреди площади, на высоком постаменте из цветного мрамора, возвышается конная статуя кондотьера Бартоломео Коллеони — почти четыре метра бронзы. Верроккьо умер в Венеции в 1488 году, не закончив работу, и Республика поручила её Алессандро Леопарди. Рядом — фасад Скуола Гранде ди Сан-Марко, ныне вход в больницу.",
+    "ja": "広場の中央、色大理石の高い台座の上に、傭兵隊長バルトロメオ・コッレオーニの騎馬像が立っています。高さ約4メートルのブロンズ像です。ヴェロッキオは1488年に像を未完成のままヴェネツィアで亡くなり、共和国はアレッサンドロ・レオパルディに完成を託しました。隣には現在病院の入口となっているスクオーラ・グランデ・ディ・サン・マルコのファサードがあります。",
+    "zh": "广场中央，在彩色大理石的高基座上，矗立着雇佣兵队长巴尔托洛梅奥·科莱奥尼的骑马像——近四米高的青铜像。韦罗基奥于1488年在威尼斯去世，雕像尚未完成，共和国遂委托亚历山德罗·莱奥帕尔迪完成。旁边是圣马可大会堂的立面，如今是医院的入口。",
+    "ko": "광장 한가운데 색 대리석으로 된 높은 받침대 위에 용병대장 바르톨로메오 콜레오니의 기마상이 서 있습니다. 높이 약 4미터의 청동상입니다. 베로키오는 1488년 동상을 완성하지 못한 채 베네치아에서 세상을 떠났고, 공화국은 알레산드로 레오파르디에게 마무리를 맡겼습니다. 옆에는 지금은 병원 입구인 스쿠올라 그란데 디 산 마르코의 정면이 있습니다.",
+    "de": "Mitten auf dem Campo, auf einem hohen Sockel aus farbigem Marmor, steht der Condottiere Bartolomeo Colleoni zu Pferd: fast vier Meter Bronze. Verrocchio starb 1488 in Venedig, bevor die Statue fertig war, und die Republik übertrug sie Alessandro Leopardi. Daneben die Fassade der Scuola Grande di San Marco, heute Eingang des Krankenhauses.",
+    "fr": "Au milieu du campo, sur un haut piédestal de marbres colorés, se dresse le condottiere Bartolomeo Colleoni à cheval : près de quatre mètres de bronze. Verrocchio mourut à Venise en 1488 sans avoir achevé la statue, et la République la confia à Alessandro Leopardi. À côté, la façade de la Scuola Grande di San Marco, aujourd'hui entrée de l'hôpital."
+   },
+   "fonte": "https://tour.venezia.it/it/venezia/cosa-vedere/dettagli/campo-dei-santi-giovanni-e-paolo",
+   "fonte_nome": "Città di Venezia · tour.venezia.it"
+  }
+ ],
+ "vicini": [
+  {
+   "nome": "Fondazione Querini Stampalia",
+   "nota": {
+    "it": "Museo, mostre e biblioteca a Santa Maria Formosa · mar–dom 10–18",
+    "en": "Museum, exhibitions and library at Santa Maria Formosa · Tue–Sun 10am–6pm",
+    "es": "Museo, exposiciones y biblioteca en Santa Maria Formosa · mar–dom 10–18",
+    "ru": "Музей, выставки и библиотека у Санта-Мария-Формоза · вт–вс 10–18",
+    "ja": "サンタ・マリア・フォルモーザの美術館・展覧会・図書館・火〜日 10–18時",
+    "zh": "圣母美丽堂旁的博物馆、展览与图书馆 · 周二至周日 10–18点",
+    "ko": "산타 마리아 포르모자의 박물관·전시·도서관 · 화–일 10–18시",
+    "de": "Museum, Ausstellungen und Bibliothek bei Santa Maria Formosa · Di–So 10–18 Uhr",
+    "fr": "Musée, expositions et bibliothèque à Santa Maria Formosa · mar–dim 10h–18h"
+   },
+   "url": "https://www.querinistampalia.org/it/mostre-eventi/",
+   "ll": [
+    45.43646,
+    12.34103
+   ]
+  },
+  {
+   "nome": "Palazzetto Marcello",
+   "nota": {
+    "it": "Nuovo spazio d'arte in Calle del Dose, Castello 5882",
+    "en": "New art space in Calle del Dose, Castello 5882",
+    "es": "Nuevo espacio de arte en Calle del Dose, Castello 5882",
+    "ru": "Новое арт-пространство на Калле-дель-Дозе, Кастелло 5882",
+    "ja": "カッレ・デル・ドーゼの新しいアートスペース（カステッロ5882）",
+    "zh": "多塞巷的新艺术空间，城堡区5882号",
+    "ko": "칼레 델 도제의 새 예술 공간, 카스텔로 5882",
+    "de": "Neuer Kunstraum in der Calle del Dose, Castello 5882",
+    "fr": "Nouvel espace d'art Calle del Dose, Castello 5882"
+   },
+   "url": "https://www.palazzettomarcello.com/mostre/linizio-ci-assale/",
+   "ll": [
+    45.43793,
+    12.34
+   ]
+  },
+  {
+   "nome": "Basilica dei Santi Giovanni e Paolo",
+   "nota": {
+    "it": "Visite lun–sab 9–17:45",
+    "en": "Visits Mon–Sat 9am–5:45pm",
+    "es": "Visitas lun–sáb 9–17:45",
+    "ru": "Посещение пн–сб 9–17:45",
+    "ja": "見学 月〜土 9–17時45分",
+    "zh": "参观时间 周一至周六 9–17:45",
+    "ko": "관람 월–토 9–17:45",
+    "de": "Besichtigung Mo–Sa 9–17:45 Uhr",
+    "fr": "Visites lun–sam 9h–17h45"
+   },
+   "url": "https://santigiovanniepaolo.it/storia-e-missione/",
+   "ll": [
+    45.43925,
+    12.3422
+   ]
+  },
+  {
+   "nome": "Ospedaletto · Sala della Musica",
+   "nota": {
+    "it": "Facciata del Longhena sulla Barbaria de le Tole",
+    "en": "Longhena's façade on Barbaria de le Tole",
+    "es": "La fachada de Longhena en Barbaria de le Tole",
+    "ru": "Фасад Лонгены на Барбария-де-ле-Толе",
+    "ja": "バルバリア・デ・レ・トーレに面したロンゲーナのファサード",
+    "zh": "隆盖纳设计的立面，位于巴尔巴里亚·德·勒·托莱街",
+    "ko": "바르바리아 데 레 톨레의 롱게나 정면",
+    "de": "Longhenas Fassade an der Barbaria de le Tole",
+    "fr": "La façade de Longhena sur la Barbaria de le Tole"
+   },
+   "url": "https://www.veneziamuseo.it/terra/Castello/Maria/mariafor_ospto.htm",
+   "ll": [
+    45.43891,
+    12.34289
+   ]
+  }
+ ]
+}
